@@ -1,0 +1,4544 @@
+{
+  "families": [
+    {
+      "name": "Sicilian Defense",
+      "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Sicilian_Defense",
+      "variants": [
+        {
+          "name": "Bowdler Attack",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Bowdler_Attack"
+        },
+        {
+          "name": "Old Sicilian",
+          "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Old_Sicilian"
+        },
+        {
+          "name": "Closed",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Closed"
+        },
+        {
+          "name": "Najdorf Variation",
+          "fen": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Najdorf_Variation"
+        },
+        {
+          "name": "Modern Variations",
+          "fen": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Modern_Variations"
+        },
+        {
+          "name": "Alapin Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Alapin_Variation"
+        },
+        {
+          "name": "Smith-Morra Gambit",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Smith-Morra_Gambit"
+        },
+        {
+          "name": "McDonnell Attack",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_McDonnell_Attack"
+        },
+        {
+          "name": "Open",
+          "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Open"
+        },
+        {
+          "name": "Taimanov Variation",
+          "fen": "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Taimanov_Variation"
+        },
+        {
+          "name": "French Variation",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_French_Variation"
+        },
+        {
+          "name": "Nyezhmetdinov-Rossolimo Attack",
+          "fen": "r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+        },
+        {
+          "name": "Dragon Variation",
+          "fen": "rnbqkbnr/pp2pp1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Dragon_Variation"
+        },
+        {
+          "name": "Accelerated Dragon",
+          "fen": "r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Accelerated_Dragon"
+        },
+        {
+          "name": "Kan Variation",
+          "fen": "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Kan_Variation"
+        },
+        {
+          "name": "Löwenthal Variation",
+          "fen": "r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Lowenthal_Variation"
+        },
+        {
+          "name": "Lasker-Pelikan Variation",
+          "fen": "r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Lasker-Pelikan_Variation"
+        },
+        {
+          "name": "Delayed Alapin",
+          "fen": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Delayed_Alapin"
+        },
+        {
+          "name": "O'Kelly Variation",
+          "fen": "rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_OKelly_Variation"
+        },
+        {
+          "name": "Four Knights Variation",
+          "fen": "r1bqkb1r/pp1p1ppp/2n1pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Four_Knights_Variation"
+        },
+        {
+          "name": "Smith-Morra Gambit Accepted",
+          "fen": "r1bqkbnr/pp1ppp1p/2n3p1/8/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+        },
+        {
+          "name": "Grand Prix Attack",
+          "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Grand_Prix_Attack"
+        },
+        {
+          "name": "Hyperaccelerated Fianchetto",
+          "fen": "rnbqkbnr/pp1ppp1p/6p1/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Hyperaccelerated_Fianchetto"
+        },
+        {
+          "name": "Hyperaccelerated Dragon",
+          "fen": "rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Hyperaccelerated_Dragon"
+        },
+        {
+          "name": "Delayed Alapin Variation",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Delayed_Alapin_Variation"
+        },
+        {
+          "name": "Wing Gambit",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Wing_Gambit"
+        },
+        {
+          "name": "Staunton-Cochrane Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Staunton-Cochrane_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Classical_Variation"
+        },
+        {
+          "name": "Marshall Gambit",
+          "fen": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Marshall_Gambit"
+        },
+        {
+          "name": "Scheveningen Variation",
+          "fen": "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Scheveningen_Variation"
+        },
+        {
+          "name": "Canal Attack",
+          "fen": "rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Canal_Attack"
+        },
+        {
+          "name": "Smith-Morra Gambit Declined",
+          "fen": "rnbqkb1r/pp1ppppp/5n2/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Smith-Morra_Gambit_Declined"
+        },
+        {
+          "name": "Moscow Variation",
+          "fen": "rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Moscow_Variation"
+        },
+        {
+          "name": "Chekhover Variation",
+          "fen": "rnbqkbnr/pp2pppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Chekhover_Variation"
+        },
+        {
+          "name": "Mengarini Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Mengarini_Variation"
+        },
+        {
+          "name": "Nimzowitsch Variation",
+          "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Nimzowitsch_Variation"
+        },
+        {
+          "name": "Snyder Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Snyder_Variation"
+        },
+        {
+          "name": "Kalashnikov Variation",
+          "fen": "r1bqkbnr/pp3ppp/2np4/1N2p3/4P3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Kalashnikov_Variation"
+        },
+        {
+          "name": "Marshall Counterattack",
+          "fen": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Marshall_Counterattack"
+        },
+        {
+          "name": "Sozin Attack",
+          "fen": "rnbqkb1r/pp3ppp/3ppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Sozin_Attack"
+        },
+        {
+          "name": "Franco-Sicilian Variation",
+          "fen": "r1bqkbnr/pp1p1ppp/2n1p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Franco-Sicilian_Variation"
+        },
+        {
+          "name": "Pin Variation",
+          "fen": "rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Pin_Variation"
+        },
+        {
+          "name": "Richter-Rauzer Variation",
+          "fen": "r1bqkb1r/pp2pppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Richter-Rauzer_Variation"
+        },
+        {
+          "name": "Kramnik Variation",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Kramnik_Variation"
+        },
+        {
+          "name": "Lasker-Dunne Attack",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Lasker-Dunne_Attack"
+        },
+        {
+          "name": "Hyperaccelerated Pterodactyl",
+          "fen": "rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Hyperaccelerated_Pterodactyl"
+        },
+        {
+          "name": "Paulsen-Basman Defense",
+          "fen": "rnbqk1nr/pp1p1ppp/4p3/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Paulsen-Basman_Defense"
+        },
+        {
+          "name": "Godiva Variation",
+          "fen": "r1b1kbnr/pp1ppppp/1qn5/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Godiva_Variation"
+        },
+        {
+          "name": "Morphy Gambit",
+          "fen": "rnbqkbnr/pp1ppppp/8/8/3pP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Morphy_Gambit"
+        },
+        {
+          "name": "Prins Variation",
+          "fen": "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/5P2/PPP3PP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Prins_Variation"
+        },
+        {
+          "name": "Smith-Morra Gambit Deferred",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Smith-Morra_Gambit_Deferred"
+        },
+        {
+          "name": "Drazic Variation",
+          "fen": "rnbqkbnr/1p1p1ppp/p3p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Drazic_Variation"
+        },
+        {
+          "name": "Katalimov Variation",
+          "fen": "rnbqkbnr/p2ppppp/1p6/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Katalimov_Variation"
+        },
+        {
+          "name": "Keres Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPPNPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Keres_Variation"
+        },
+        {
+          "name": "Jalalabad Variation",
+          "fen": "rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Jalalabad_Variation"
+        },
+        {
+          "name": "Flohr Variation",
+          "fen": "r1b1kbnr/ppqppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Flohr_Variation"
+        },
+        {
+          "name": "Wing Gambit Deferred",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Wing_Gambit_Deferred"
+        },
+        {
+          "name": "Nimzo-American Variation",
+          "fen": "r1bqkbnr/pp2pppp/2n5/3p4/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Nimzo-American_Variation"
+        },
+        {
+          "name": "Accelerated Fianchetto",
+          "fen": "r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Accelerated_Fianchetto"
+        },
+        {
+          "name": "Boleslavsky Variation",
+          "fen": "r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Boleslavsky_Variation"
+        },
+        {
+          "name": "Bücker Variation",
+          "fen": "rnbqkbnr/pp1pppp1/7p/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Bucker_Variation"
+        },
+        {
+          "name": "Kveinis Variation",
+          "fen": "rnb1kbnr/pp1p1ppp/1q2p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Kveinis_Variation"
+        },
+        {
+          "name": "Venice Attack",
+          "fen": "rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Venice_Attack"
+        },
+        {
+          "name": "Myers Attack",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/P3P3/8/1PPP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Myers_Attack"
+        },
+        {
+          "name": "Kupreichik Variation",
+          "fen": "rn1qkb1r/pp1bpppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Kupreichik_Variation"
+        },
+        {
+          "name": "Quinteros Variation",
+          "fen": "rnb1kbnr/ppqppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Quinteros_Variation"
+        },
+        {
+          "name": "Halasz Gambit",
+          "fen": "rnbqkbnr/pp1ppppp/8/8/3pPP2/8/PPP3PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Halasz_Gambit"
+        },
+        {
+          "name": "Kronberger Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/N7/PPPP1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Sicilian_Defense_Kronberger_Variation"
+        }
+      ]
+    },
+    {
+      "name": "French Defense",
+      "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/French_Defense",
+      "variants": [
+        {
+          "name": "Advance Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Advance_Variation"
+        },
+        {
+          "name": "Knight Variation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/French_Defense_Knight_Variation"
+        },
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Tarrasch Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Tarrasch_Variation"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Normal_Variation"
+        },
+        {
+          "name": "Winawer Variation",
+          "fen": "rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Winawer_Variation"
+        },
+        {
+          "name": "Rubinstein Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Rubinstein_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Classical_Variation"
+        },
+        {
+          "name": "La Bourdonnais Variation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_La_Bourdonnais_Variation"
+        },
+        {
+          "name": "Queen's Knight",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Queens_Knight"
+        },
+        {
+          "name": "King's Indian Attack",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Kings_Indian_Attack"
+        },
+        {
+          "name": "Steiner Variation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Steiner_Variation"
+        },
+        {
+          "name": "Two Knights Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/French_Defense_Two_Knights_Variation"
+        },
+        {
+          "name": "Franco-Sicilian Defense",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Franco-Sicilian_Defense"
+        },
+        {
+          "name": "Steinitz Variation",
+          "fen": "rnbqkb1r/pppn1ppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R1B1KBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Steinitz_Variation"
+        },
+        {
+          "name": "Steinitz Attack",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Steinitz_Attack"
+        },
+        {
+          "name": "Schlechter Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/French_Defense_Schlechter_Variation"
+        },
+        {
+          "name": "Horwitz Attack",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Horwitz_Attack"
+        },
+        {
+          "name": "Paulsen Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Paulsen_Variation"
+        },
+        {
+          "name": "Burn Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Burn_Variation"
+        },
+        {
+          "name": "Mediterranean Defense",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Mediterranean_Defense"
+        },
+        {
+          "name": "Wing Gambit",
+          "fen": "rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/French_Defense_Wing_Gambit"
+        },
+        {
+          "name": "Chigorin Variation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Chigorin_Variation"
+        },
+        {
+          "name": "Orthoschnapp Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3p4/4P3/1Q6/PP1P1PPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Orthoschnapp_Gambit"
+        },
+        {
+          "name": "Alekhine-Chatard Attack",
+          "fen": "rnbqk2r/pppnbppp/4p3/3pP1B1/3P3P/2N5/PPP2PP1/R2QKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Alekhine-Chatard_Attack"
+        },
+        {
+          "name": "St. George Defense",
+          "fen": "rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_St_George_Defense"
+        },
+        {
+          "name": "MacCutcheon Variation",
+          "fen": "rnbqk2r/ppp2ppp/4pn2/3p2B1/1b1PP3/2N5/PPP2PPP/R2QKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_MacCutcheon_Variation"
+        },
+        {
+          "name": "Diemer-Duhm Gambit Accepted",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/8/2PPp3/8/PP3PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Diemer-Duhm_Gambit_Accepted"
+        },
+        {
+          "name": "Réti-Spielmann Attack",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Reti-Spielmann_Attack"
+        },
+        {
+          "name": "Pelikan Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Pelikan_Variation"
+        },
+        {
+          "name": "Alapin Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Alapin_Gambit"
+        },
+        {
+          "name": "Franco-Hiva Gambit",
+          "fen": "rnbqkbnr/pppp2pp/4p3/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/French_Defense_Franco-Hiva_Gambit"
+        },
+        {
+          "name": "Perseus Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/French_Defense_Perseus_Gambit"
+        },
+        {
+          "name": "Diemer-Duhm Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/French_Defense_Diemer-Duhm_Gambit"
+        },
+        {
+          "name": "Bird Invitation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/1B6/4P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/French_Defense_Bird_Invitation"
+        },
+        {
+          "name": "Carlson Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/4N3/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/French_Defense_Carlson_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Pawn Game",
+      "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Queens_Pawn_Game",
+      "variants": [
+        {
+          "name": "Accelerated London System",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Accelerated_London_System"
+        },
+        {
+          "name": "Chigorin Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Chigorin_Variation"
+        },
+        {
+          "name": "Zukertort Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Zukertort_Variation"
+        },
+        {
+          "name": "London System",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_London_System"
+        },
+        {
+          "name": "Colle System",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Colle_System"
+        },
+        {
+          "name": "Symmetrical Variation",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Symmetrical_Variation"
+        },
+        {
+          "name": "Steinitz Countergambit",
+          "fen": "rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Steinitz_Countergambit"
+        },
+        {
+          "name": "Levitsky Attack",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p2B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Levitsky_Attack"
+        },
+        {
+          "name": "Krause Variation",
+          "fen": "rnbqkbnr/pp2pppp/8/2pp4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Krause_Variation"
+        },
+        {
+          "name": "Torre Attack",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Torre_Attack"
+        },
+        {
+          "name": "Stonewall Attack",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Stonewall_Attack"
+        },
+        {
+          "name": "Anti-Torre",
+          "fen": "rn1qkbnr/ppp1pppp/8/3p4/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Anti-Torre"
+        },
+        {
+          "name": "Mason Attack",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Mason_Attack"
+        },
+        {
+          "name": "Veresov Attack",
+          "fen": "rnbqkbnr/ppp1p1pp/8/3p1p2/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Veresov_Attack"
+        },
+        {
+          "name": "Anglo-Slav Opening",
+          "fen": "rnbqkbnr/pp2pppp/2pp4/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Anglo-Slav_Opening"
+        },
+        {
+          "name": "Veresov",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N2P2/PPP1P1PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Veresov"
+        },
+        {
+          "name": "Hübsch Gambit",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Hubsch_Gambit"
+        },
+        {
+          "name": "Barry Attack",
+          "fen": "rnbq1rk1/ppp1ppbp/5np1/3p4/3P1B2/2N1PN2/PPP1BPPP/R2QK2R b KQ -",
+          "lichess-href": "/training/Queens_Pawn_Game_Barry_Attack"
+        },
+        {
+          "name": "Morris Countergambit",
+          "fen": "rnbqkbnr/pp2pppp/8/2pp4/3PPB2/8/PPP2PPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Pawn_Game_Morris_Countergambit"
+        }
+      ]
+    },
+    {
+      "name": "Italian Game",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+      "lichess-href": "/training/Italian_Game",
+      "variants": [
+        {
+          "name": "Two Knights Defense",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Two_Knights_Defense"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Italian_Game_Classical_Variation"
+        },
+        {
+          "name": "Giuoco Pianissimo",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Italian_Game_Giuoco_Pianissimo"
+        },
+        {
+          "name": "Anti-Fried Liver Defense",
+          "fen": "r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Anti-Fried_Liver_Defense"
+        },
+        {
+          "name": "Giuoco Piano",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Giuoco_Piano"
+        },
+        {
+          "name": "Evans Gambit",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/1PB1P3/5N2/P1PP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Italian_Game_Evans_Gambit"
+        },
+        {
+          "name": "Scotch Gambit",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Italian_Game_Scotch_Gambit"
+        },
+        {
+          "name": "Blackburne-Kostić Gambit",
+          "fen": "r1bqkbnr/pppp1ppp/8/4p3/2BnP3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Blackburne-Kostic_Gambit"
+        },
+        {
+          "name": "Hungarian Defense",
+          "fen": "r1bqk1nr/ppppbppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Hungarian_Defense"
+        },
+        {
+          "name": "Rousseau Gambit",
+          "fen": "r1bqkbnr/pppp2pp/2n5/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Rousseau_Gambit"
+        },
+        {
+          "name": "Evans Gambit Declined",
+          "fen": "r1bqk1nr/pppp1ppp/1bn5/4p3/1PB1P3/5N2/P1PP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Italian_Game_Evans_Gambit_Declined"
+        },
+        {
+          "name": "Deutz Gambit",
+          "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2BPP3/5N2/PPP2PPP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Italian_Game_Deutz_Gambit"
+        },
+        {
+          "name": "Rosentreter Gambit",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Italian_Game_Rosentreter_Gambit"
+        },
+        {
+          "name": "Jerome Gambit",
+          "fen": "r1bqk1nr/pppp1Bpp/2n5/2b1p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Italian_Game_Jerome_Gambit"
+        },
+        {
+          "name": "Bird's Attack",
+          "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/1PB1P3/2P2N2/P2P1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Italian_Game_Birds_Attack"
+        }
+      ]
+    },
+    {
+      "name": "Caro-Kann Defense",
+      "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Caro-Kann_Defense",
+      "variants": [
+        {
+          "name": "Advance Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Advance_Variation"
+        },
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Classical_Variation"
+        },
+        {
+          "name": "Two Knights Attack",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Two_Knights_Attack"
+        },
+        {
+          "name": "Panov Attack",
+          "fen": "rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Panov_Attack"
+        },
+        {
+          "name": "Hillbilly Attack",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Hillbilly_Attack"
+        },
+        {
+          "name": "Accelerated Panov Attack",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Accelerated_Panov_Attack"
+        },
+        {
+          "name": "Tartakower Variation",
+          "fen": "rnbqkb1r/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Tartakower_Variation"
+        },
+        {
+          "name": "Maróczy Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Maroczy_Variation"
+        },
+        {
+          "name": "Karpov Variation",
+          "fen": "r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Karpov_Variation"
+        },
+        {
+          "name": "Main Line",
+          "fen": "rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Main_Line"
+        },
+        {
+          "name": "Breyer Variation",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Breyer_Variation"
+        },
+        {
+          "name": "Campomanes Attack",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Campomanes_Attack"
+        },
+        {
+          "name": "Bronstein-Larsen Variation",
+          "fen": "rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Bronstein-Larsen_Variation"
+        },
+        {
+          "name": "Euwe Attack",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Euwe_Attack"
+        },
+        {
+          "name": "Forgacs Variation",
+          "fen": "rnbqkb1r/pp3ppp/2p2p2/8/2BP4/8/PPP2PPP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Forgacs_Variation"
+        },
+        {
+          "name": "Goldman Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Goldman_Variation"
+        },
+        {
+          "name": "Rasa-Studier Gambit",
+          "fen": "rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Rasa-Studier_Gambit"
+        },
+        {
+          "name": "Gurgenidze System",
+          "fen": "rnbqkbnr/pp2pp1p/2p3p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Gurgenidze_System"
+        },
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Modern_Variation"
+        },
+        {
+          "name": "Alekhine Gambit",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/8/3PN3/3B4/PPP2PPP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Alekhine_Gambit"
+        },
+        {
+          "name": "von Hennig Gambit",
+          "fen": "rnbqkbnr/pp2pppp/2p5/8/2BPp3/2N5/PPP2PPP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_von_Hennig_Gambit"
+        },
+        {
+          "name": "Ulysses Gambit",
+          "fen": "rnbqkbnr/pp2pppp/2p5/6N1/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Ulysses_Gambit"
+        },
+        {
+          "name": "Apocalypse Attack",
+          "fen": "rnbqkbnr/pp2pppp/8/3pN3/8/8/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Apocalypse_Attack"
+        },
+        {
+          "name": "Gurgenidze Counterattack",
+          "fen": "rnbqkbnr/p3pppp/2p5/1p1p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Caro-Kann_Defense_Gurgenidze_Counterattack"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Declined",
+      "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Queens_Gambit_Declined",
+      "variants": [
+        {
+          "name": "Marshall Defense",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Marshall_Defense"
+        },
+        {
+          "name": "Albin Countergambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Albin_Countergambit"
+        },
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Exchange_Variation"
+        },
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Modern_Variation"
+        },
+        {
+          "name": "Chigorin Defense",
+          "fen": "r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Chigorin_Defense"
+        },
+        {
+          "name": "Queen's Knight Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Queens_Knight_Variation"
+        },
+        {
+          "name": "Ragozin Defense",
+          "fen": "rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Ragozin_Defense"
+        },
+        {
+          "name": "Baltic Defense",
+          "fen": "rn1qkbnr/ppp1pppp/8/3p1b2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Baltic_Defense"
+        },
+        {
+          "name": "Normal Defense",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Normal_Defense"
+        },
+        {
+          "name": "Three Knights Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Three_Knights_Variation"
+        },
+        {
+          "name": "Semi-Tarrasch Defense",
+          "fen": "rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Semi-Tarrasch_Defense"
+        },
+        {
+          "name": "Harrwitz Attack",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Harrwitz_Attack"
+        },
+        {
+          "name": "Tarrasch Defense",
+          "fen": "rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Tarrasch_Defense"
+        },
+        {
+          "name": "Austrian Defense",
+          "fen": "rnbqkbnr/pp2pppp/8/2pp4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Austrian_Defense"
+        },
+        {
+          "name": "Traditional Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Traditional_Variation"
+        },
+        {
+          "name": "Vienna Variation",
+          "fen": "rnbqk2r/ppp2ppp/4pn2/3p2B1/1bPP4/5N2/PP2PPPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Vienna_Variation"
+        },
+        {
+          "name": "Orthodox Defense",
+          "fen": "r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Orthodox_Defense"
+        },
+        {
+          "name": "Janowski Variation",
+          "fen": "rnbqkbnr/1pp2ppp/p3p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Janowski_Variation"
+        },
+        {
+          "name": "Neo-Orthodox Variation",
+          "fen": "rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/2RQKBNR b K -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Neo-Orthodox_Variation"
+        },
+        {
+          "name": "Charousek Variation",
+          "fen": "rnbqk1nr/ppp1bppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Charousek_Variation"
+        },
+        {
+          "name": "Barmen Variation",
+          "fen": "r1bqkb1r/pppn1ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Barmen_Variation"
+        },
+        {
+          "name": "Cambridge Springs Defense",
+          "fen": "r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Cambridge_Springs_Defense"
+        },
+        {
+          "name": "Tartakower Defense",
+          "fen": "rnbq1rk1/p1p1bpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Tartakower_Defense"
+        },
+        {
+          "name": "Austrian Attack",
+          "fen": "rnbqkbnr/pp2pppp/8/2P5/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Austrian_Attack"
+        },
+        {
+          "name": "Capablanca Variation",
+          "fen": "rnbqkb1r/ppp2pp1/4pn1p/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Capablanca_Variation"
+        },
+        {
+          "name": "Been-Koomen Variation",
+          "fen": "rnbqkb1r/pp3ppp/4pn2/2pp2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Been-Koomen_Variation"
+        },
+        {
+          "name": "Pseudo-Tarrasch Variation",
+          "fen": "rnbqkb1r/pp3ppp/4pn2/2pP2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Pseudo-Tarrasch_Variation"
+        },
+        {
+          "name": "Anti-Tartakower Variation",
+          "fen": "rnbq1rk1/ppp1bpp1/4pB1p/3p4/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQ -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Anti-Tartakower_Variation"
+        },
+        {
+          "name": "Alapin Variation",
+          "fen": "rnbqkbnr/p1p2ppp/1p2p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Alapin_Variation"
+        },
+        {
+          "name": "Lasker Defense",
+          "fen": "rnbqk2r/ppp1bppp/4p3/3p2B1/2PPn3/2N1P3/PP3PPP/R2QKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Lasker_Defense"
+        },
+        {
+          "name": "Alekhine Variation",
+          "fen": "r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PPP3/2N2N2/PP3PPP/R2QKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Alekhine_Variation"
+        },
+        {
+          "name": "Manhattan Variation",
+          "fen": "r1bqk2r/pppn1ppp/4pn2/3p2B1/1bPP4/2N1P3/PP3PPP/R2QKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Declined_Manhattan_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Scandinavian Defense",
+      "fen": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Scandinavian_Defense",
+      "variants": [
+        {
+          "name": "Mieses-Kotroc Variation",
+          "fen": "rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Mieses-Kotroc_Variation"
+        },
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Modern_Variation"
+        },
+        {
+          "name": "Main Line",
+          "fen": "rnb1kbnr/ppp1pppp/8/q7/8/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Main_Line"
+        },
+        {
+          "name": "Gubinsky-Melts Defense",
+          "fen": "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Gubinsky-Melts_Defense"
+        },
+        {
+          "name": "Icelandic-Palme Gambit",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Icelandic-Palme_Gambit"
+        },
+        {
+          "name": "Panov Transfer",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Panov_Transfer"
+        },
+        {
+          "name": "Blackburne Gambit",
+          "fen": "r1bqkbnr/pp2pppp/2n5/8/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Blackburne_Gambit"
+        },
+        {
+          "name": "Marshall Variation",
+          "fen": "rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Marshall_Variation"
+        },
+        {
+          "name": "Boehnke Gambit",
+          "fen": "rn1qkbnr/ppp2ppp/4b3/8/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Boehnke_Gambit"
+        },
+        {
+          "name": "Blackburne-Kloosterboer Gambit",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Blackburne-Kloosterboer_Gambit"
+        },
+        {
+          "name": "Kloosterboer Gambit",
+          "fen": "rnbqkbnr/pp3ppp/2P5/4p3/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Kloosterboer_Gambit"
+        },
+        {
+          "name": "Bronstein Variation",
+          "fen": "rnb1kb1r/1pp1pppp/p2q1n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Bronstein_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rn2kb1r/ppp1pppp/5n2/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Classical_Variation"
+        },
+        {
+          "name": "Lasker Variation",
+          "fen": "rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N1P/PPP2PP1/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Lasker_Variation"
+        },
+        {
+          "name": "Kiel Variation",
+          "fen": "rnbqkb1r/ppp1pppp/8/8/1nPP4/8/PP3PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Kiel_Variation"
+        },
+        {
+          "name": "Anderssen Counterattack",
+          "fen": "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Anderssen_Counterattack"
+        },
+        {
+          "name": "Schiller-Pytel Variation",
+          "fen": "rnb1kbnr/pp2pppp/2pq4/8/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Schiller-Pytel_Variation"
+        },
+        {
+          "name": "Richter Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/5np1/3P4/3P4/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Scandinavian_Defense_Richter_Variation"
+        }
+      ]
+    },
+    {
+      "name": "English Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/English_Opening",
+      "variants": [
+        {
+          "name": "King's English Variation",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Kings_English_Variation"
+        },
+        {
+          "name": "Symmetrical Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Symmetrical_Variation"
+        },
+        {
+          "name": "Anglo-Indian Defense",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Anglo-Indian_Defense"
+        },
+        {
+          "name": "Agincourt Defense",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Agincourt_Defense"
+        },
+        {
+          "name": "Anglo-Scandinavian Defense",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Anglo-Scandinavian_Defense"
+        },
+        {
+          "name": "Caro-Kann Defensive System",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Caro-Kann_Defensive_System"
+        },
+        {
+          "name": "Great Snake Variation",
+          "fen": "rnbqkbnr/pppppp1p/6p1/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Great_Snake_Variation"
+        },
+        {
+          "name": "The Whale",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/English_Opening_The_Whale"
+        },
+        {
+          "name": "Carls-Bremen System",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/English_Opening_Carls-Bremen_System"
+        },
+        {
+          "name": "Anglo-Dutch Defense",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Anglo-Dutch_Defense"
+        },
+        {
+          "name": "Mikenas-Carls Variation",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P1P3/2N5/PP1P1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/English_Opening_Mikenas-Carls_Variation"
+        },
+        {
+          "name": "Four Knights System",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P1P3/2N2N2/PP1P1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/English_Opening_Four_Knights_System"
+        },
+        {
+          "name": "Anglo-Grünfeld Defense",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Anglo-Grunfeld_Defense"
+        },
+        {
+          "name": "Anglo-Lithuanian Variation",
+          "fen": "r1bqkbnr/pppppppp/2n5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Anglo-Lithuanian_Variation"
+        },
+        {
+          "name": "Jaenisch Gambit",
+          "fen": "rnbqkbnr/p1pppppp/8/1p6/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Jaenisch_Gambit"
+        },
+        {
+          "name": "Neo-Catalan",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/English_Opening_Neo-Catalan"
+        },
+        {
+          "name": "Mikenas-Carls",
+          "fen": "rnbqkb1r/pp1p1ppp/4pn2/2p5/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/English_Opening_Mikenas-Carls"
+        }
+      ]
+    },
+    {
+      "name": "Ruy Lopez",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+      "lichess-href": "/training/Ruy_Lopez",
+      "variants": [
+        {
+          "name": "Morphy Defense",
+          "fen": "r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Morphy_Defense"
+        },
+        {
+          "name": "Berlin Defense",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Berlin_Defense"
+        },
+        {
+          "name": "Steinitz Defense",
+          "fen": "r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Steinitz_Defense"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Classical_Variation"
+        },
+        {
+          "name": "Exchange Variation",
+          "fen": "r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Exchange_Variation"
+        },
+        {
+          "name": "Bird Variation",
+          "fen": "r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Bird_Variation"
+        },
+        {
+          "name": "Cozio Defense",
+          "fen": "r1bqkb1r/ppppnppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Cozio_Defense"
+        },
+        {
+          "name": "Schliemann Defense",
+          "fen": "r1bqkbnr/pppp2pp/2n5/1B2pp2/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Schliemann_Defense"
+        },
+        {
+          "name": "Closed",
+          "fen": "r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq -",
+          "lichess-href": "/training/Ruy_Lopez_Closed"
+        },
+        {
+          "name": "Open",
+          "fen": "r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1 w kq -",
+          "lichess-href": "/training/Ruy_Lopez_Open"
+        },
+        {
+          "name": "Marshall Attack",
+          "fen": "r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - -",
+          "lichess-href": "/training/Ruy_Lopez_Marshall_Attack"
+        },
+        {
+          "name": "Nürnberg Variation",
+          "fen": "r1bqkbnr/pppp2pp/2n2p2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Nurnberg_Variation"
+        },
+        {
+          "name": "Fianchetto Defense",
+          "fen": "r1bqkbnr/pppp1p1p/2n3p1/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Fianchetto_Defense"
+        },
+        {
+          "name": "Spanish Countergambit",
+          "fen": "r1bqkbnr/ppp2ppp/2n5/1B1pp3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Spanish_Countergambit"
+        },
+        {
+          "name": "Open Berlin Defense",
+          "fen": "r1bqkb1r/pppp1ppp/2nn4/4p3/B2P4/5N2/PPP2PPP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Ruy_Lopez_Open_Berlin_Defense"
+        },
+        {
+          "name": "Vinogradov Variation",
+          "fen": "r1b1kbnr/ppppqppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Vinogradov_Variation"
+        },
+        {
+          "name": "Lucena Variation",
+          "fen": "r1bqk1nr/ppppbppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Lucena_Variation"
+        },
+        {
+          "name": "Alapin Defense",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/1B2p3/1b2P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Ruy_Lopez_Alapin_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Indian Defense",
+      "fen": "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Indian_Defense",
+      "variants": [
+        {
+          "name": "Budapest Defense",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Budapest_Defense"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Normal_Variation"
+        },
+        {
+          "name": "London System",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Indian_Defense_London_System"
+        },
+        {
+          "name": "Knights Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Knights_Variation"
+        },
+        {
+          "name": "Anti-Nimzo-Indian",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Anti-Nimzo-Indian"
+        },
+        {
+          "name": "Wade-Tartakower Defense",
+          "fen": "rnbqkb1r/ppp1pppp/3p1n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Wade-Tartakower_Defense"
+        },
+        {
+          "name": "Spielmann-Indian",
+          "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Spielmann-Indian"
+        },
+        {
+          "name": "West Indian Defense",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Indian_Defense_West_Indian_Defense"
+        },
+        {
+          "name": "Seirawan Attack",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/6B1/2PP4/8/PP2PPPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Seirawan_Attack"
+        },
+        {
+          "name": "Przepiorka Variation",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Przepiorka_Variation"
+        },
+        {
+          "name": "Tartakower Attack",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Tartakower_Attack"
+        },
+        {
+          "name": "Pawn Push Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Pawn_Push_Variation"
+        },
+        {
+          "name": "Reversed Chigorin Defense",
+          "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Reversed_Chigorin_Defense"
+        },
+        {
+          "name": "Omega Gambit",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Omega_Gambit"
+        },
+        {
+          "name": "King's Indian Variation",
+          "fen": "rnbqk2r/ppppppbp/5np1/8/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Kings_Indian_Variation"
+        },
+        {
+          "name": "Czech-Indian",
+          "fen": "rnbqkb1r/pp1ppppp/2p2n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Czech-Indian"
+        },
+        {
+          "name": "Colle System",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Colle_System"
+        },
+        {
+          "name": "Anti-Grünfeld",
+          "fen": "rnbqkb1r/pppppp1p/5np1/3P4/2P5/8/PP2PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Anti-Grunfeld"
+        },
+        {
+          "name": "Maddigan Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Maddigan_Gambit"
+        },
+        {
+          "name": "Pseudo-Benko",
+          "fen": "rnbqkb1r/p2ppppp/5n2/1ppP4/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Indian_Defense_Pseudo-Benko"
+        },
+        {
+          "name": "Devin Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP2P1/8/PP2PP1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Indian_Defense_Devin_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Scotch Game",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Scotch_Game",
+      "variants": [
+        {
+          "name": "Scotch Gambit",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Scotch_Gambit"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Classical_Variation"
+        },
+        {
+          "name": "Schmidt Variation",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Schmidt_Variation"
+        },
+        {
+          "name": "Göring Gambit",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Goring_Gambit"
+        },
+        {
+          "name": "Haxo Gambit",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b5/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Haxo_Gambit"
+        },
+        {
+          "name": "Benima Defense",
+          "fen": "r1bqk1nr/ppppbppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Benima_Defense"
+        },
+        {
+          "name": "Mieses Variation",
+          "fen": "r1bqkb1r/p1pp1ppp/2p2n2/4P3/8/8/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Mieses_Variation"
+        },
+        {
+          "name": "Potter Variation",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b5/4P3/1N6/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Potter_Variation"
+        },
+        {
+          "name": "Lolli Variation",
+          "fen": "r1bqkbnr/pppp1ppp/8/4p3/3nP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Lolli_Variation"
+        },
+        {
+          "name": "Modern Defense",
+          "fen": "r1b1k1nr/pppp1ppp/2n5/8/1b1NP2q/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Modern_Defense"
+        },
+        {
+          "name": "Malaniuk Variation",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/8/1b1NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Malaniuk_Variation"
+        },
+        {
+          "name": "Blumenfeld Attack",
+          "fen": "r1b1k1nr/pppp1ppp/2n2q2/1Nb5/4P3/4B3/PPP2PPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Blumenfeld_Attack"
+        },
+        {
+          "name": "Steinitz Variation",
+          "fen": "r1b1kbnr/pppp1ppp/2n5/8/3NP2q/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Scotch_Game_Steinitz_Variation"
+        },
+        {
+          "name": "Ghulam-Kassim Variation",
+          "fen": "r1bqkbnr/ppp2ppp/3p4/8/3QP3/3B4/PPP2PPP/RNB1K2R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Ghulam-Kassim_Variation"
+        },
+        {
+          "name": "Paulsen Attack",
+          "fen": "r1b1k2r/ppppnppp/2n2q2/1Bb5/3NP3/2P1B3/PP3PPP/RN1QK2R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Paulsen_Attack"
+        },
+        {
+          "name": "Relfsson Gambit",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/1B6/3pP3/5N2/PPP2PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Relfsson_Gambit"
+        },
+        {
+          "name": "Vitzthum Attack",
+          "fen": "r1bqk2r/pppp1ppp/2n4n/2b3NQ/2BpP3/8/PPP2PPP/RNB1K2R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Vitzthum_Attack"
+        },
+        {
+          "name": "Alekhine Gambit",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4P3/3N4/8/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Scotch_Game_Alekhine_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Russian Game",
+      "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Russian_Game",
+      "variants": [
+        {
+          "name": "Stafford Gambit",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Russian_Game_Stafford_Gambit"
+        },
+        {
+          "name": "Italian Variation",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Italian_Variation"
+        },
+        {
+          "name": "Three Knights Game",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Three_Knights_Game"
+        },
+        {
+          "name": "Modern Attack",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Modern_Attack"
+        },
+        {
+          "name": "Classical Attack",
+          "fen": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Classical_Attack"
+        },
+        {
+          "name": "Nimzowitsch Attack",
+          "fen": "rnbqkb1r/ppp2ppp/3p4/8/4n3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Nimzowitsch_Attack"
+        },
+        {
+          "name": "Damiano Variation",
+          "fen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Russian_Game_Damiano_Variation"
+        },
+        {
+          "name": "Cozio Attack",
+          "fen": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPPQPPP/RNB1KB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Cozio_Attack"
+        },
+        {
+          "name": "Cochrane Gambit",
+          "fen": "rnbqkb1r/ppp2Npp/3p1n2/8/4P3/8/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Cochrane_Gambit"
+        },
+        {
+          "name": "French Attack",
+          "fen": "rnbqkb1r/ppp2ppp/3p4/8/4n3/3P1N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_French_Attack"
+        },
+        {
+          "name": "Paulsen Attack",
+          "fen": "rnbqkb1r/ppp2ppp/3p1n2/8/2N1P3/8/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Paulsen_Attack"
+        },
+        {
+          "name": "Millennium Attack",
+          "fen": "rnbqkb1r/ppp2ppp/3p4/8/4n3/3B1N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Millennium_Attack"
+        },
+        {
+          "name": "Karklins-Martinovsky Variation",
+          "fen": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/3N4/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Russian_Game_Karklins-Martinovsky_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Philidor Defense",
+      "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Philidor_Defense",
+      "variants": [
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Lion Variation",
+          "fen": "r1bqkb1r/pppn1ppp/3p1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Lion_Variation"
+        },
+        {
+          "name": "Hanham Variation",
+          "fen": "r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Hanham_Variation"
+        },
+        {
+          "name": "Nimzowitsch Variation",
+          "fen": "rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Nimzowitsch_Variation"
+        },
+        {
+          "name": "Morphy Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Morphy_Gambit"
+        },
+        {
+          "name": "Lopez Countergambit",
+          "fen": "rnbqkbnr/ppp3pp/3p4/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Lopez_Countergambit"
+        },
+        {
+          "name": "Steinitz Variation",
+          "fen": "rnbqk1nr/ppp1bppp/3p4/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Steinitz_Variation"
+        },
+        {
+          "name": "Philidor Countergambit",
+          "fen": "rnbqkbnr/ppp3pp/3p4/4pp2/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Philidor_Countergambit"
+        },
+        {
+          "name": "Bird Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Bird_Gambit"
+        },
+        {
+          "name": "Larsen Variation",
+          "fen": "rnbqkbnr/ppp2p1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Larsen_Variation"
+        },
+        {
+          "name": "Albin-Blackburne Gambit",
+          "fen": "r2qkbnr/pppn1ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Philidor_Defense_Albin-Blackburne_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Modern Defense",
+      "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+      "lichess-href": "/training/Modern_Defense",
+      "variants": [
+        {
+          "name": "Standard Defense",
+          "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Modern_Defense_Standard_Defense"
+        },
+        {
+          "name": "Two Knights Variation",
+          "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Two_Knights_Variation"
+        },
+        {
+          "name": "Standard Line",
+          "fen": "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Standard_Line"
+        },
+        {
+          "name": "Three Pawns Attack",
+          "fen": "rnbqk1nr/ppppppbp/6p1/8/3PPP2/8/PPP3PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Three_Pawns_Attack"
+        },
+        {
+          "name": "Mongredien Defense",
+          "fen": "rnbqk1nr/p1ppppbp/1p4p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Modern_Defense_Mongredien_Defense"
+        },
+        {
+          "name": "Averbakh System",
+          "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Averbakh_System"
+        },
+        {
+          "name": "Geller's System",
+          "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Gellers_System"
+        },
+        {
+          "name": "Pseudo-Austrian Attack",
+          "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Pseudo-Austrian_Attack"
+        },
+        {
+          "name": "Bishop Attack",
+          "fen": "rnbqk1nr/ppppppbp/6p1/8/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Modern_Defense_Bishop_Attack"
+        },
+        {
+          "name": "Norwegian Defense",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Modern_Defense_Norwegian_Defense"
+        },
+        {
+          "name": "Kotov Variation",
+          "fen": "r1bqk1nr/ppp1ppbp/2np2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Modern_Defense_Kotov_Variation"
+        },
+        {
+          "name": "Modern Pterodactyl",
+          "fen": "rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Modern_Defense_Modern_Pterodactyl"
+        },
+        {
+          "name": "Beefeater Variation",
+          "fen": "rnbqk1nr/pp1pp2p/6p1/2pP1p2/2P5/2P5/P3PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Modern_Defense_Beefeater_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Four Knights Game",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "lichess-href": "/training/Four_Knights_Game",
+      "variants": [
+        {
+          "name": "Italian Variation",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Italian_Variation"
+        },
+        {
+          "name": "Scotch Variation Accepted",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Scotch_Variation_Accepted"
+        },
+        {
+          "name": "Spanish Variation",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Spanish_Variation"
+        },
+        {
+          "name": "Scotch Variation",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Scotch_Variation"
+        },
+        {
+          "name": "Gunsberg Variation",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Gunsberg_Variation"
+        },
+        {
+          "name": "Halloween Gambit",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Halloween_Gambit"
+        },
+        {
+          "name": "Double Spanish",
+          "fen": "r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Double_Spanish"
+        },
+        {
+          "name": "Ranken Variation",
+          "fen": "r1bqkb1r/1ppp1ppp/p1B2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Ranken_Variation"
+        },
+        {
+          "name": "Rubinstein Countergambit",
+          "fen": "r1bqkb1r/pppp1ppp/5n2/4p3/3nP3/2N2N2/PPPPBPPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Four_Knights_Game_Rubinstein_Countergambit"
+        }
+      ]
+    },
+    {
+      "name": "King's Gambit Accepted",
+      "fen": "rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Kings_Gambit_Accepted",
+      "variants": [
+        {
+          "name": "MacLeod Defense",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_MacLeod_Defense"
+        },
+        {
+          "name": "Fischer Defense",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Fischer_Defense"
+        },
+        {
+          "name": "King's Knight's Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Kings_Knights_Gambit"
+        },
+        {
+          "name": "Bishop's Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Bishops_Gambit"
+        },
+        {
+          "name": "Cunningham Defense",
+          "fen": "rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Cunningham_Defense"
+        },
+        {
+          "name": "Modern Defense",
+          "fen": "rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Modern_Defense"
+        },
+        {
+          "name": "Schallopp Defense",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Schallopp_Defense"
+        },
+        {
+          "name": "Abbazia Defense",
+          "fen": "rnbqkb1r/ppp2ppp/5n2/3P4/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Abbazia_Defense"
+        },
+        {
+          "name": "Becker Defense",
+          "fen": "rnbqkbnr/pppp1pp1/7p/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Becker_Defense"
+        },
+        {
+          "name": "Kieseritzky Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Kieseritzky_Gambit"
+        },
+        {
+          "name": "Muzio Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Muzio_Gambit"
+        },
+        {
+          "name": "Blachly Gambit",
+          "fen": "r1bqkbnr/pppp1p1p/2n5/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Blachly_Gambit"
+        },
+        {
+          "name": "Salvio Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/4N3/2B1Ppp1/8/PPPP2PP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Salvio_Gambit"
+        },
+        {
+          "name": "Rosentreter Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/6p1/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Rosentreter_Gambit"
+        },
+        {
+          "name": "Bonsch-Osmolovsky Variation",
+          "fen": "rnbqkb1r/ppppnppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Bonsch-Osmolovsky_Variation"
+        },
+        {
+          "name": "Allgaier Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/6N1/4PppP/8/PPPP2P1/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Allgaier_Gambit"
+        },
+        {
+          "name": "Polerio Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/3PPp2/8/PPP3PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Polerio_Gambit"
+        },
+        {
+          "name": "Hanstein Gambit",
+          "fen": "rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Hanstein_Gambit"
+        },
+        {
+          "name": "Lolli Gambit",
+          "fen": "rnbqkbnr/pppp1B1p/8/8/4Ppp1/5N2/PPPP2PP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Lolli_Gambit"
+        },
+        {
+          "name": "Traditional Variation",
+          "fen": "rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Traditional_Variation"
+        },
+        {
+          "name": "Double Muzio Gambit",
+          "fen": "rnb1kbnr/pppp1p1p/5q2/8/2B1Pp2/2N2Q2/PPPP2PP/R1B2RK1 b kq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Double_Muzio_Gambit"
+        },
+        {
+          "name": "Quade Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/6p1/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Quade_Gambit"
+        },
+        {
+          "name": "Ghulam-Kassim Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/8/2BPPpp1/5N2/PPP3PP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Ghulam-Kassim_Gambit"
+        },
+        {
+          "name": "Sörensen Gambit",
+          "fen": "rnbqkbnr/pppp1p1p/8/4N3/3PPpp1/8/PPP3PP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Sorensen_Gambit"
+        },
+        {
+          "name": "Mason-Keres Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/4Pp2/2N5/PPPP2PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Mason-Keres_Gambit"
+        },
+        {
+          "name": "Greco Gambit",
+          "fen": "rnbqk1nr/ppp2pb1/3p3p/6p1/2BPPp1P/5N2/PPP3P1/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Greco_Gambit"
+        },
+        {
+          "name": "Gianutio Countergambit",
+          "fen": "rnbqkbnr/pppp2pp/8/5p2/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Accepted_Gianutio_Countergambit"
+        }
+      ]
+    },
+    {
+      "name": "Zukertort Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Zukertort_Opening",
+      "variants": [
+        {
+          "name": "Tennison Gambit",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Tennison_Gambit"
+        },
+        {
+          "name": "Sicilian Invitation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Sicilian_Invitation"
+        },
+        {
+          "name": "Black Mustang Defense",
+          "fen": "r1bqkbnr/pppppppp/2n5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Black_Mustang_Defense"
+        },
+        {
+          "name": "Queen's Gambit Invitation",
+          "fen": "rnbqkbnr/pppp1ppp/4p3/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Queens_Gambit_Invitation"
+        },
+        {
+          "name": "Kingside Fianchetto",
+          "fen": "rnbqkbnr/pppppp1p/6p1/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Kingside_Fianchetto"
+        },
+        {
+          "name": "Pirc Invitation",
+          "fen": "rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Pirc_Invitation"
+        },
+        {
+          "name": "Slav Invitation",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Slav_Invitation"
+        },
+        {
+          "name": "Queenside Fianchetto Variation",
+          "fen": "rnbqkbnr/p1pppppp/1p6/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Queenside_Fianchetto_Variation"
+        },
+        {
+          "name": "Dutch Variation",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Dutch_Variation"
+        },
+        {
+          "name": "Old Indian Attack",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/8/3P1N2/PPP1PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Old_Indian_Attack"
+        },
+        {
+          "name": "Nimzo-Larsen Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/8/1P3N2/P1PPPPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Nimzo-Larsen_Variation"
+        },
+        {
+          "name": "Lemberger Gambit",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Lemberger_Gambit"
+        },
+        {
+          "name": "Ross Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Ross_Gambit"
+        },
+        {
+          "name": "Reversed Mexican Defense",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Reversed_Mexican_Defense"
+        },
+        {
+          "name": "Quiet System",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/8/4PN2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Quiet_System"
+        },
+        {
+          "name": "Wade Defense",
+          "fen": "rn1qkbnr/ppp1pppp/3p4/8/4P1b1/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Wade_Defense"
+        },
+        {
+          "name": "Lisitsyn Gambit",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Lisitsyn_Gambit"
+        },
+        {
+          "name": "Grünfeld Reversed",
+          "fen": "r1bqkbnr/pp3ppp/2n1p3/2pp4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Zukertort_Opening_Grunfeld_Reversed"
+        },
+        {
+          "name": "The Walrus",
+          "fen": "r1bqkbnr/ppp2ppp/2p5/8/8/8/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_The_Walrus"
+        },
+        {
+          "name": "Arctic Defense",
+          "fen": "rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Arctic_Defense"
+        },
+        {
+          "name": "Herrstrom Gambit",
+          "fen": "rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Herrstrom_Gambit"
+        },
+        {
+          "name": "Vos Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Vos_Gambit"
+        },
+        {
+          "name": "Polish Defense",
+          "fen": "rnbqkbnr/p1pppppp/8/1p6/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Polish_Defense"
+        },
+        {
+          "name": "Lisitsyn Gambit Deferred",
+          "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Lisitsyn_Gambit_Deferred"
+        },
+        {
+          "name": "Basman Defense",
+          "fen": "rnbqkbnr/ppppppp1/7p/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Zukertort_Opening_Basman_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Bishop's Opening",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+      "lichess-href": "/training/Bishops_Opening",
+      "variants": [
+        {
+          "name": "Berlin Defense",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Berlin_Defense"
+        },
+        {
+          "name": "Vienna Hybrid",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Vienna_Hybrid"
+        },
+        {
+          "name": "Boi Variation",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Boi_Variation"
+        },
+        {
+          "name": "Ponziani Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Ponziani_Gambit"
+        },
+        {
+          "name": "Urusov Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Urusov_Gambit"
+        },
+        {
+          "name": "Philidor Counterattack",
+          "fen": "rnbqkbnr/pp1p1ppp/2p5/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Philidor_Counterattack"
+        },
+        {
+          "name": "Boden-Kieseritzky Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Boden-Kieseritzky_Gambit"
+        },
+        {
+          "name": "Calabrese Countergambit",
+          "fen": "rnbqkbnr/pppp2pp/8/4pp2/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Calabrese_Countergambit"
+        },
+        {
+          "name": "Lewis Gambit",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Lewis_Gambit"
+        },
+        {
+          "name": "Khan Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Khan_Gambit"
+        },
+        {
+          "name": "Philidor Variation",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/2P5/PP1P1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Philidor_Variation"
+        },
+        {
+          "name": "Warsaw Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/8/2BpP3/2P5/PP3PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Warsaw_Gambit"
+        },
+        {
+          "name": "Stein Gambit",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/2B1PP2/8/PPPP2PP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Bishops_Opening_Stein_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Slav Defense",
+      "fen": "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Slav_Defense",
+      "variants": [
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PP2PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Three Knights Variation",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Three_Knights_Variation"
+        },
+        {
+          "name": "Modern Line",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Modern_Line"
+        },
+        {
+          "name": "Quiet Variation",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Quiet_Variation"
+        },
+        {
+          "name": "Chameleon Variation",
+          "fen": "rnbqkb1r/1p2pppp/p1p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Slav_Defense_Chameleon_Variation"
+        },
+        {
+          "name": "Schlechter Variation",
+          "fen": "rnbqkb1r/pp2pp1p/2p2np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Slav_Defense_Schlechter_Variation"
+        },
+        {
+          "name": "Slav Gambit",
+          "fen": "rnbqkbnr/pp2pppp/2p5/8/2pPP3/2N5/PP3PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Slav_Gambit"
+        },
+        {
+          "name": "Geller Gambit",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Geller_Gambit"
+        },
+        {
+          "name": "Czech Variation",
+          "fen": "rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Slav_Defense_Czech_Variation"
+        },
+        {
+          "name": "Bonet Gambit",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Bonet_Gambit"
+        },
+        {
+          "name": "Diemer Gambit",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/2PPP3/8/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Diemer_Gambit"
+        },
+        {
+          "name": "Alekhine Variation",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Alekhine_Variation"
+        },
+        {
+          "name": "Two Knights Attack",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Slav_Defense_Two_Knights_Attack"
+        },
+        {
+          "name": "Winawer Countergambit",
+          "fen": "rnbqkbnr/pp3ppp/2p5/3pp3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Slav_Defense_Winawer_Countergambit"
+        },
+        {
+          "name": "Alapin Variation",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Alapin_Variation"
+        },
+        {
+          "name": "Steiner Variation",
+          "fen": "rn1qkb1r/pp2pppp/2p2n2/8/P1pP2b1/2N2N2/1P2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Slav_Defense_Steiner_Variation"
+        },
+        {
+          "name": "Breyer Variation",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP1NPPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Slav_Defense_Breyer_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Pirc Defense",
+      "fen": "rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Pirc_Defense",
+      "variants": [
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Pirc_Defense_Classical_Variation"
+        },
+        {
+          "name": "Austrian Attack",
+          "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Pirc_Defense_Austrian_Attack"
+        },
+        {
+          "name": "Byrne Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/3p1np1/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Pirc_Defense_Byrne_Variation"
+        },
+        {
+          "name": "Kholmov System",
+          "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/2BPP3/2N5/PPP2PPP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Pirc_Defense_Kholmov_System"
+        },
+        {
+          "name": "Roscher Gambit",
+          "fen": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Pirc_Defense_Roscher_Gambit"
+        },
+        {
+          "name": "Bayonet Attack",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP2P/2N5/PPP1BPP1/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Pirc_Defense_Bayonet_Attack"
+        }
+      ]
+    },
+    {
+      "name": "King's Pawn Game",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Kings_Pawn_Game",
+      "variants": [
+        {
+          "name": "Leonardis Variation",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Leonardis_Variation"
+        },
+        {
+          "name": "Busch-Gass Gambit",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Busch-Gass_Gambit"
+        },
+        {
+          "name": "McConnell Defense",
+          "fen": "rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_McConnell_Defense"
+        },
+        {
+          "name": "Wayward Queen Attack",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Wayward_Queen_Attack"
+        },
+        {
+          "name": "Macleod Attack",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Macleod_Attack"
+        },
+        {
+          "name": "Napoleon Attack",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Napoleon_Attack"
+        },
+        {
+          "name": "Maróczy Defense",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Maroczy_Defense"
+        },
+        {
+          "name": "Damiano Defense",
+          "fen": "rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Damiano_Defense"
+        },
+        {
+          "name": "Tayler Opening",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPPBPPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Tayler_Opening"
+        },
+        {
+          "name": "Gunderam Gambit",
+          "fen": "rnbqkbnr/pp1p1ppp/2p5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Gunderam_Gambit"
+        },
+        {
+          "name": "King's Head Opening",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5P2/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Kings_Head_Opening"
+        },
+        {
+          "name": "Dresden Opening",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Dresden_Opening"
+        },
+        {
+          "name": "Beyer Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Beyer_Gambit"
+        },
+        {
+          "name": "Alapin Opening",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPNPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Alapin_Opening"
+        },
+        {
+          "name": "Mengarini's Opening",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Mengarinis_Opening"
+        },
+        {
+          "name": "Clam Variation",
+          "fen": "rnbqkbnr/pppp2pp/8/4pp2/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Clam_Variation"
+        },
+        {
+          "name": "Tortoise Opening",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/3B4/PPPP1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Kings_Pawn_Game_Tortoise_Opening"
+        }
+      ]
+    },
+    {
+      "name": "Vienna Game",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq -",
+      "lichess-href": "/training/Vienna_Game",
+      "variants": [
+        {
+          "name": "Vienna Gambit",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Vienna_Game_Vienna_Gambit"
+        },
+        {
+          "name": "Stanley Variation",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Vienna_Game_Stanley_Variation"
+        },
+        {
+          "name": "Max Lange Defense",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Vienna_Game_Max_Lange_Defense"
+        },
+        {
+          "name": "Anderssen Defense",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Vienna_Game_Anderssen_Defense"
+        },
+        {
+          "name": "Falkbeer Variation",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Vienna_Game_Falkbeer_Variation"
+        },
+        {
+          "name": "Frankenstein-Dracula Variation",
+          "fen": "rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR w KQkq -",
+          "lichess-href": "/training/Vienna_Game_Frankenstein-Dracula_Variation"
+        },
+        {
+          "name": "Mieses Variation",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Vienna_Game_Mieses_Variation"
+        },
+        {
+          "name": "Omaha Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Vienna_Game_Omaha_Gambit"
+        },
+        {
+          "name": "Mengarini Variation",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Vienna_Game_Mengarini_Variation"
+        },
+        {
+          "name": "Paulsen Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Vienna_Game_Paulsen_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Gambit Accepted",
+      "fen": "rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Queens_Gambit_Accepted",
+      "variants": [
+        {
+          "name": "Old Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/2pP4/4P3/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Old_Variation"
+        },
+        {
+          "name": "Central Variation",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/8/2pPP3/8/PP3PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Central_Variation"
+        },
+        {
+          "name": "Saduleto Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Saduleto_Variation"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Normal_Variation"
+        },
+        {
+          "name": "Rosenthal Variation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Rosenthal_Variation"
+        },
+        {
+          "name": "Showalter Variation",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Showalter_Variation"
+        },
+        {
+          "name": "Classical Defense",
+          "fen": "rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Classical_Defense"
+        },
+        {
+          "name": "Gunsberg Defense",
+          "fen": "rnbqkbnr/pp2pppp/8/2p5/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Gunsberg_Defense"
+        },
+        {
+          "name": "Accelerated Mannheim Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/Q1pP4/8/PP2PPPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Accelerated_Mannheim_Variation"
+        },
+        {
+          "name": "Janowski-Larsen Variation",
+          "fen": "rn1qkb1r/ppp1pppp/5n2/8/2pP2b1/4PN2/PP3PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Janowski-Larsen_Variation"
+        },
+        {
+          "name": "Slav Gambit",
+          "fen": "rnbqkbnr/p1p1pppp/8/1p6/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Slav_Gambit"
+        },
+        {
+          "name": "Alekhine Defense",
+          "fen": "rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Alekhine_Defense"
+        },
+        {
+          "name": "Mannheim Variation",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/8/Q1pP4/5N2/PP2PPPP/RNB1KB1R b KQkq -",
+          "lichess-href": "/training/Queens_Gambit_Accepted_Mannheim_Variation"
+        }
+      ]
+    },
+    {
+      "name": "King's Indian Defense",
+      "fen": "rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+      "lichess-href": "/training/Kings_Indian_Defense",
+      "variants": [
+        {
+          "name": "Normal Variation",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Normal_Variation"
+        },
+        {
+          "name": "Orthodox Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Orthodox_Variation"
+        },
+        {
+          "name": "Fianchetto Variation",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Fianchetto_Variation"
+        },
+        {
+          "name": "Sämisch Variation",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Samisch_Variation"
+        },
+        {
+          "name": "Four Pawns Attack",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Four_Pawns_Attack"
+        },
+        {
+          "name": "Smyslov Variation",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Smyslov_Variation"
+        },
+        {
+          "name": "Zinnowitz Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2N2/PP3PPP/R2QKB1R b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Zinnowitz_Variation"
+        },
+        {
+          "name": "Makogonov Variation",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Makogonov_Variation"
+        },
+        {
+          "name": "Semi-Classical Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQK2R b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Semi-Classical_Variation"
+        },
+        {
+          "name": "Accelerated Averbakh Variation",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Accelerated_Averbakh_Variation"
+        },
+        {
+          "name": "Larsen Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BN2/PP3PPP/R2QKB1R b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Larsen_Variation"
+        },
+        {
+          "name": "Semi-Averbakh System",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1B3/PP2BPPP/R2QK1NR b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Semi-Averbakh_System"
+        },
+        {
+          "name": "Petrosian Variation",
+          "fen": "rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Petrosian_Variation"
+        },
+        {
+          "name": "Averbakh Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Averbakh_Variation"
+        },
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Kramer Variation",
+          "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Indian_Defense_Kramer_Variation"
+        },
+        {
+          "name": "Steiner Attack",
+          "fen": "rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2P2/PP4PP/R2QKBNR b KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Steiner_Attack"
+        },
+        {
+          "name": "Kazakh Variation",
+          "fen": "r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ -",
+          "lichess-href": "/training/Kings_Indian_Defense_Kazakh_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Benoni Defense",
+      "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Benoni_Defense",
+      "variants": [
+        {
+          "name": "Old Benoni",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Old_Benoni"
+        },
+        {
+          "name": "Benoni Gambit Accepted",
+          "fen": "rnbqkbnr/pp1ppppp/8/2P5/8/8/PPP1PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Benoni_Gambit_Accepted"
+        },
+        {
+          "name": "French Benoni",
+          "fen": "rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Benoni_Defense_French_Benoni"
+        },
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Modern_Variation"
+        },
+        {
+          "name": "Benoni-Indian Defense",
+          "fen": "rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Benoni-Indian_Defense"
+        },
+        {
+          "name": "Hromádka System",
+          "fen": "rnbqkb1r/pp2pppp/3p1n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Hromadka_System"
+        },
+        {
+          "name": "King's Pawn Line",
+          "fen": "rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Kings_Pawn_Line"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Classical_Variation"
+        },
+        {
+          "name": "Czech Benoni Defense",
+          "fen": "rnbqkb1r/pp1p1ppp/5n2/2pPp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq e6",
+          "lichess-href": "/training/Benoni_Defense_Czech_Benoni_Defense"
+        },
+        {
+          "name": "Weenink Variation",
+          "fen": "rnbqkb1r/pp1p1ppp/4pn2/2P5/2P5/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Weenink_Variation"
+        },
+        {
+          "name": "Four Pawns Attack",
+          "fen": "rnbq1rk1/pp3pbp/3p1np1/2pP4/4PP2/2N2N2/PP4PP/R1BQKB1R w KQ -",
+          "lichess-href": "/training/Benoni_Defense_Four_Pawns_Attack"
+        },
+        {
+          "name": "Semi-Benoni",
+          "fen": "rnbqkbnr/pp3ppp/3p4/2pPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Semi-Benoni"
+        },
+        {
+          "name": "Taimanov Variation",
+          "fen": "rnbqk2r/pp3pbp/3p1np1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR b KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Taimanov_Variation"
+        },
+        {
+          "name": "Fianchetto Variation",
+          "fen": "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Fianchetto_Variation"
+        },
+        {
+          "name": "Benoni Gambit",
+          "fen": "r1bqkbnr/pp1ppppp/n7/2P5/8/8/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Benoni_Defense_Benoni_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Nimzowitsch Defense",
+      "fen": "r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Nimzowitsch_Defense",
+      "variants": [
+        {
+          "name": "Scandinavian Variation",
+          "fen": "r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Scandinavian_Variation"
+        },
+        {
+          "name": "Kennedy Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Kennedy_Variation"
+        },
+        {
+          "name": "Declined Variation",
+          "fen": "r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Declined_Variation"
+        },
+        {
+          "name": "Franco-Nimzowitsch Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n1p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Franco-Nimzowitsch_Variation"
+        },
+        {
+          "name": "Williams Variation",
+          "fen": "r1bqkbnr/ppp1pppp/2np4/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Williams_Variation"
+        },
+        {
+          "name": "Colorado Countergambit Accepted",
+          "fen": "r1bqkbnr/ppppp1pp/2n5/5P2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Colorado_Countergambit_Accepted"
+        },
+        {
+          "name": "Mikenas Variation",
+          "fen": "r1bqkbnr/ppp1pppp/2np4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Mikenas_Variation"
+        },
+        {
+          "name": "Colorado Countergambit",
+          "fen": "r1bqkbnr/ppppp1pp/2n5/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Colorado_Countergambit"
+        },
+        {
+          "name": "French Connection",
+          "fen": "r1bqkbnr/pppp1ppp/2n1p3/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_French_Connection"
+        },
+        {
+          "name": "Pseudo-Spanish Variation",
+          "fen": "r1bqkbnr/pppppppp/2n5/1B6/4P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_Pseudo-Spanish_Variation"
+        },
+        {
+          "name": "El Columpio Defense",
+          "fen": "r1bqkb1r/pppppppp/2n5/4P3/6n1/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Nimzowitsch_Defense_El_Columpio_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Alekhine Defense",
+      "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Alekhine_Defense",
+      "variants": [
+        {
+          "name": "Scandinavian Variation",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Scandinavian_Variation"
+        },
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Modern_Variation"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Normal_Variation"
+        },
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkb1r/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Four Pawns Attack",
+          "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Four_Pawns_Attack"
+        },
+        {
+          "name": "Maróczy Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Maroczy_Variation"
+        },
+        {
+          "name": "Sämisch Attack",
+          "fen": "rnbqkb1r/pppppppp/8/3nP3/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Samisch_Attack"
+        },
+        {
+          "name": "Balogh Variation",
+          "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/2BP4/8/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Balogh_Variation"
+        },
+        {
+          "name": "Mokele Mbembe",
+          "fen": "rnbqkb1r/pppppppp/8/4P3/4n3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Mokele_Mbembe"
+        },
+        {
+          "name": "Krejcik Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Krejcik_Variation"
+        },
+        {
+          "name": "Brooklyn Variation",
+          "fen": "rnbqkbnr/pppppppp/8/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Brooklyn_Variation"
+        },
+        {
+          "name": "Hunt Variation",
+          "fen": "rnbqkb1r/ppp1pppp/1n1p4/2P1P3/3P4/8/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_Hunt_Variation"
+        },
+        {
+          "name": "O'Sullivan Gambit",
+          "fen": "rnbqkb1r/p1pppppp/8/1p1nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Alekhine_Defense_OSullivan_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Nimzo-Larsen Attack",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Nimzo-Larsen_Attack",
+      "variants": [
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_Modern_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_Classical_Variation"
+        },
+        {
+          "name": "Indian Variation",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_Indian_Variation"
+        },
+        {
+          "name": "English Variation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_English_Variation"
+        },
+        {
+          "name": "Symmetrical Variation",
+          "fen": "rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_Symmetrical_Variation"
+        },
+        {
+          "name": "Dutch Variation",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_Dutch_Variation"
+        },
+        {
+          "name": "Spike Variation",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/6P1/1P6/PBPPPP1P/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Larsen_Attack_Spike_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Horwitz Defense",
+      "fen": "rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Horwitz_Defense",
+      "variants": []
+    },
+    {
+      "name": "King's Gambit Declined",
+      "fen": "",
+      "lichess-href": "/training/Kings_Gambit_Declined",
+      "variants": [
+        {
+          "name": "Queen's Knight Defense",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Queens_Knight_Defense"
+        },
+        {
+          "name": "Falkbeer Countergambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Falkbeer_Countergambit"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Classical_Variation"
+        },
+        {
+          "name": "Falkbeer Countergambit Accepted",
+          "fen": "rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Falkbeer_Countergambit_Accepted"
+        },
+        {
+          "name": "Petrov's Defense",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Petrovs_Defense"
+        },
+        {
+          "name": "Miles Defense",
+          "fen": "r1bqkbnr/pppp2pp/2n5/4pp2/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Miles_Defense"
+        },
+        {
+          "name": "Mafia Defense",
+          "fen": "rnbqkbnr/pp1p1ppp/8/2p1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Mafia_Defense"
+        },
+        {
+          "name": "Keene's Defense",
+          "fen": "rnb1kbnr/pppp1ppp/8/4p3/4PP1q/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Keenes_Defense"
+        },
+        {
+          "name": "Panteldakis Countergambit",
+          "fen": "rnbqkbnr/pppp2pp/8/4pp2/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Panteldakis_Countergambit"
+        },
+        {
+          "name": "Keene Defense",
+          "fen": "rnb1kbnr/ppppqppp/8/4p3/4PP2/6P1/PPPP3P/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Keene_Defense"
+        },
+        {
+          "name": "Classical",
+          "fen": "rnbqk1nr/ppp2ppp/3p4/2b1P3/4P3/5N2/PPPP2PP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Classical"
+        },
+        {
+          "name": "Norwalde Variation",
+          "fen": "rnb1kbnr/pppp1ppp/5q2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Kings_Gambit_Declined_Norwalde_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Owen Defense",
+      "fen": "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Owen_Defense",
+      "variants": [
+        {
+          "name": "Smith Gambit",
+          "fen": "rn1qkbnr/pbpppppp/1p6/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Owen_Defense_Smith_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Bird Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Bird_Opening",
+      "variants": [
+        {
+          "name": "Dutch Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Bird_Opening_Dutch_Variation"
+        },
+        {
+          "name": "From's Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Bird_Opening_Froms_Gambit"
+        },
+        {
+          "name": "Williams Gambit",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Bird_Opening_Williams_Gambit"
+        },
+        {
+          "name": "Lasker Variation",
+          "fen": "rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Bird_Opening_Lasker_Variation"
+        },
+        {
+          "name": "Schlechter Gambit",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Bird_Opening_Schlechter_Gambit"
+        },
+        {
+          "name": "Sturm Gambit",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Bird_Opening_Sturm_Gambit"
+        },
+        {
+          "name": "Wagner-Zwitersch Gambit",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Bird_Opening_Wagner-Zwitersch_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Nimzo-Indian Defense",
+      "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+      "lichess-href": "/training/Nimzo-Indian_Defense",
+      "variants": [
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Classical_Variation"
+        },
+        {
+          "name": "Three Knights Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Three_Knights_Variation"
+        },
+        {
+          "name": "Leningrad Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/6B1/1bPP4/2N5/PP2PPPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Leningrad_Variation"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Normal_Variation"
+        },
+        {
+          "name": "Sämisch Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Samisch_Variation"
+        },
+        {
+          "name": "Kmoch Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2P2/PP2P1PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Kmoch_Variation"
+        },
+        {
+          "name": "Normal Line",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Normal_Line"
+        },
+        {
+          "name": "Spielmann Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/1QN5/PP2PPPP/R1B1KBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Spielmann_Variation"
+        },
+        {
+          "name": "Hübner Variation",
+          "fen": "rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Hubner_Variation"
+        },
+        {
+          "name": "Romanishin Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N3P1/PP2PP1P/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Romanishin_Variation"
+        },
+        {
+          "name": "St. Petersburg Variation",
+          "fen": "rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_St_Petersburg_Variation"
+        },
+        {
+          "name": "Reshevsky Variation",
+          "fen": "rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R b KQ -",
+          "lichess-href": "/training/Nimzo-Indian_Defense_Reshevsky_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Dutch Defense",
+      "fen": "rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Dutch_Defense",
+      "variants": [
+        {
+          "name": "Queen's Knight Variation",
+          "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Queens_Knight_Variation"
+        },
+        {
+          "name": "Raphael Variation",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Raphael_Variation"
+        },
+        {
+          "name": "Rubinstein Variation",
+          "fen": "rnbqkbnr/pppp2pp/4p3/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Rubinstein_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rnbqkbnr/pppp2pp/4p3/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Classical_Variation"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Normal_Variation"
+        },
+        {
+          "name": "Hopton Attack",
+          "fen": "rnbqkbnr/ppppp1pp/8/5pB1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Hopton_Attack"
+        },
+        {
+          "name": "Staunton Gambit",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Staunton_Gambit"
+        },
+        {
+          "name": "Leningrad Variation",
+          "fen": "rnbqkb1r/ppppp2p/5np1/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Leningrad_Variation"
+        },
+        {
+          "name": "Staunton Gambit Accepted",
+          "fen": "rnbqkbnr/ppppp1pp/8/8/3Pp3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Staunton_Gambit_Accepted"
+        },
+        {
+          "name": "Fianchetto Attack",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Fianchetto_Attack"
+        },
+        {
+          "name": "Blackmar's Second Gambit",
+          "fen": "rnbqkb1r/ppppp1pp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Blackmars_Second_Gambit"
+        },
+        {
+          "name": "Stonewall Variation",
+          "fen": "rnbqk2r/pp4pp/2pbpn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w kq -",
+          "lichess-href": "/training/Dutch_Defense_Stonewall_Variation"
+        },
+        {
+          "name": "Krejcik Gambit",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Dutch_Defense_Krejcik_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Van't Kruijs Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Vant_Kruijs_Opening",
+      "variants": []
+    },
+    {
+      "name": "Semi-Slav Defense",
+      "fen": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+      "lichess-href": "/training/Semi-Slav_Defense",
+      "variants": [
+        {
+          "name": "Accelerated Move Order",
+          "fen": "rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Accelerated_Move_Order"
+        },
+        {
+          "name": "Main Line",
+          "fen": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Main_Line"
+        },
+        {
+          "name": "Marshall Gambit",
+          "fen": "rnbqkbnr/pp3ppp/2p1p3/3p4/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Marshall_Gambit"
+        },
+        {
+          "name": "Noteboom Variation",
+          "fen": "rnbqkbnr/pp3ppp/2p1p3/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Noteboom_Variation"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Normal_Variation"
+        },
+        {
+          "name": "Stoltz Variation",
+          "fen": "r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2N1PN2/PPQ2PPP/R1B1KB1R b KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Stoltz_Variation"
+        },
+        {
+          "name": "Botvinnik Variation",
+          "fen": "rnbqkb1r/pp3ppp/2p1pn2/6B1/2pPP3/2N2N2/PP3PPP/R2QKB1R b KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Botvinnik_Variation"
+        },
+        {
+          "name": "Chigorin Defense",
+          "fen": "r1bqk2r/pp1n1ppp/2pbpn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Chigorin_Defense"
+        },
+        {
+          "name": "Meran Variation",
+          "fen": "r1bqkb1r/p2n1ppp/2p1pn2/1p6/2BP4/2N1PN2/PP3PPP/R1BQK2R w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Meran_Variation"
+        },
+        {
+          "name": "Anti-Moscow Gambit",
+          "fen": "rnbqkb1r/pp3pp1/2p1pn1p/3p4/2PP3B/2N2N2/PP2PPPP/R2QKB1R b KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Anti-Moscow_Gambit"
+        },
+        {
+          "name": "Quiet Variation",
+          "fen": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Quiet_Variation"
+        },
+        {
+          "name": "Accelerated Meran Variation",
+          "fen": "rnbqkb1r/1p3ppp/p1p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Accelerated_Meran_Variation"
+        },
+        {
+          "name": "Bogoljubov Variation",
+          "fen": "r1bqk2r/pp1nbppp/2p1pn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R w KQkq -",
+          "lichess-href": "/training/Semi-Slav_Defense_Bogoljubov_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Hungarian Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Hungarian_Opening",
+      "variants": [
+        {
+          "name": "Indian Defense",
+          "fen": "rnbqkb1r/pppppppp/5n2/8/8/6P1/PPPPPP1P/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Indian_Defense"
+        },
+        {
+          "name": "Slav Formation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Slav_Formation"
+        },
+        {
+          "name": "Catalan Formation",
+          "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Catalan_Formation"
+        },
+        {
+          "name": "Sicilian Invitation",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPP1P/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Sicilian_Invitation"
+        },
+        {
+          "name": "Symmetrical Variation",
+          "fen": "rnbqkbnr/pppppp1p/6p1/8/8/6P1/PPPPPP1P/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Symmetrical_Variation"
+        },
+        {
+          "name": "Reversed Modern Defense",
+          "fen": "rnbqkbnr/pp2pppp/8/2pp4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Reversed_Modern_Defense"
+        },
+        {
+          "name": "Dutch Defense",
+          "fen": "rnbqkbnr/ppppp1pp/8/5p2/8/6P1/PPPPPP1P/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Dutch_Defense"
+        },
+        {
+          "name": "Reversed Alekhine",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Hungarian_Opening_Reversed_Alekhine"
+        }
+      ]
+    },
+    {
+      "name": "Center Game",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Center_Game",
+      "variants": [
+        {
+          "name": "Normal Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq -",
+          "lichess-href": "/training/Center_Game_Normal_Variation"
+        },
+        {
+          "name": "Kieseritzky Variation",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/3pP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Center_Game_Kieseritzky_Variation"
+        },
+        {
+          "name": "Paulsen Attack Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/Center_Game_Paulsen_Attack_Variation"
+        },
+        {
+          "name": "Berger Variation",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/8/4P3/4Q3/PPP2PPP/RNB1KBNR w KQkq -",
+          "lichess-href": "/training/Center_Game_Berger_Variation"
+        },
+        {
+          "name": "von der Lasa Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/2BpP3/8/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Center_Game_von_der_Lasa_Gambit"
+        },
+        {
+          "name": "Hall Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/8/2Q1P3/8/PPP2PPP/RNB1KBNR b KQkq -",
+          "lichess-href": "/training/Center_Game_Hall_Variation"
+        },
+        {
+          "name": "Halasz-McDonnell Gambit",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/3pPP2/8/PPP3PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Center_Game_Halasz-McDonnell_Gambit"
+        },
+        {
+          "name": "Lanc-Arnold Gambit",
+          "fen": "rnbqk1nr/pppp1ppp/8/2b5/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Center_Game_Lanc-Arnold_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Englund Gambit Complex",
+      "fen": "",
+      "lichess-href": "/training/Englund_Gambit_Complex",
+      "variants": [
+        {
+          "name": "Englund Gambit",
+          "fen": "r1b1kbnr/ppppqppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Englund_Gambit"
+        },
+        {
+          "name": "Hartlaub-Charlick Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+        },
+        {
+          "name": "Soller Gambit",
+          "fen": "rnbqkbnr/pppp2pp/5p2/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Soller_Gambit"
+        },
+        {
+          "name": "Felbecker Gambit",
+          "fen": "r1bqk1nr/pppp1ppp/2n5/2b1P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Felbecker_Gambit"
+        },
+        {
+          "name": "Stockholm Variation",
+          "fen": "r1b1kbnr/ppppqppp/2n5/3QP3/8/5N2/PPP1PPPP/RNB1KB1R b KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Stockholm_Variation"
+        },
+        {
+          "name": "Soller Gambit Deferred",
+          "fen": "r1bqkbnr/pppp2pp/2n2p2/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Soller_Gambit_Deferred"
+        },
+        {
+          "name": "Zilbermints Gambit",
+          "fen": "r1bqkb1r/ppppnppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Complex_Zilbermints_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Three Knights Opening",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "lichess-href": "/training/Three_Knights_Opening",
+      "variants": [
+        {
+          "name": "Winawer Defense",
+          "fen": "r1bqkbnr/pppp2pp/2n5/4pp2/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Three_Knights_Opening_Winawer_Defense"
+        },
+        {
+          "name": "Steinitz Defense",
+          "fen": "r1bqkbnr/pppp1p1p/2n3p1/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Three_Knights_Opening_Steinitz_Defense"
+        },
+        {
+          "name": "Schlechter Variation",
+          "fen": "r1bqk2r/pppp1ppp/2n2n2/3Np3/1b2P3/5N2/PPPP1PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Three_Knights_Opening_Schlechter_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Ponziani Opening",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Ponziani_Opening",
+      "variants": [
+        {
+          "name": "Jaenisch Counterattack",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Ponziani_Opening_Jaenisch_Counterattack"
+        },
+        {
+          "name": "Neumann Gambit",
+          "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Ponziani_Opening_Neumann_Gambit"
+        },
+        {
+          "name": "Ponziani Countergambit",
+          "fen": "r1bqkbnr/pppp2pp/2n5/4pp2/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Ponziani_Opening_Ponziani_Countergambit"
+        },
+        {
+          "name": "Spanish Variation",
+          "fen": "r1bqkbnr/ppp2ppp/2n5/1B1pp3/4P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Ponziani_Opening_Spanish_Variation"
+        },
+        {
+          "name": "Vukovic Gambit",
+          "fen": "r1bqk2r/pppp1ppp/2n5/2bPp3/4n3/2P2N2/PP3PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Ponziani_Opening_Vukovic_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Blackmar-Diemer Gambit",
+      "fen": "rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Blackmar-Diemer_Gambit",
+      "variants": [
+        {
+          "name": "von Popiel Gambit",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_von_Popiel_Gambit"
+        },
+        {
+          "name": "Zeller Defense",
+          "fen": "rn1qkbnr/ppp1pppp/8/5b2/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Zeller_Defense"
+        },
+        {
+          "name": "Netherlands Variation",
+          "fen": "rnbqkbnr/ppp1p1pp/8/5p2/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Netherlands_Variation"
+        },
+        {
+          "name": "Lemberger Countergambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/4p3/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Lemberger_Countergambit"
+        },
+        {
+          "name": "Diemer-Rosenberg Attack",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/3Pp3/4B3/PPP2PPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Diemer-Rosenberg_Attack"
+        },
+        {
+          "name": "Fritz Attack",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/2BPp3/8/PPP2PPP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Fritz_Attack"
+        }
+      ]
+    },
+    {
+      "name": "Grünfeld Defense",
+      "fen": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+      "lichess-href": "/training/Grunfeld_Defense",
+      "variants": [
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/6p1/3n4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Grunfeld_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Three Knights Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Grunfeld_Defense_Three_Knights_Variation"
+        },
+        {
+          "name": "Stockholm Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/5np1/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Grunfeld_Defense_Stockholm_Variation"
+        },
+        {
+          "name": "Brinckmann Attack",
+          "fen": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Grunfeld_Defense_Brinckmann_Attack"
+        },
+        {
+          "name": "Russian Variation",
+          "fen": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/1QN5/PP2PPPP/R1B1KBNR b KQkq -",
+          "lichess-href": "/training/Grunfeld_Defense_Russian_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Englund Gambit",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Englund_Gambit",
+      "variants": []
+    },
+    {
+      "name": "King's Indian Attack",
+      "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Kings_Indian_Attack",
+      "variants": [
+        {
+          "name": "Symmetrical Defense",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Symmetrical_Defense"
+        },
+        {
+          "name": "French Variation",
+          "fen": "r1bqkbnr/pp2pppp/2n5/2pp4/8/5NP1/PPPPPPBP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_French_Variation"
+        },
+        {
+          "name": "Sicilian Variation",
+          "fen": "rnbqkbnr/pp2pppp/8/2pp4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Sicilian_Variation"
+        },
+        {
+          "name": "Keres Variation",
+          "fen": "rn1qkbnr/ppp1pppp/8/3p4/6b1/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Keres_Variation"
+        },
+        {
+          "name": "Wahls Defense",
+          "fen": "rnbq1rk1/ppp1ppbp/5np1/3p4/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w - -",
+          "lichess-href": "/training/Kings_Indian_Attack_Wahls_Defense"
+        },
+        {
+          "name": "Yugoslav Variation",
+          "fen": "rn1qkb1r/pp2pppp/2p2n2/3p4/6b1/5NP1/PPPPPPBP/RNBQ1RK1 w kq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Yugoslav_Variation"
+        },
+        {
+          "name": "Double Fianchetto",
+          "fen": "rnbqkbnr/ppp1pp1p/6p1/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Double_Fianchetto"
+        },
+        {
+          "name": "Spassky Variation",
+          "fen": "rnbqkb1r/p1pppppp/5n2/1p6/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Spassky_Variation"
+        },
+        {
+          "name": "Omega-Delta Gambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Indian_Attack_Omega-Delta_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Polish Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Polish_Opening",
+      "variants": [
+        {
+          "name": "Czech Defense",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+          "lichess-href": "/training/Polish_Opening_Czech_Defense"
+        },
+        {
+          "name": "Bugayev Attack",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/1P6/P7/2PPPPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Polish_Opening_Bugayev_Attack"
+        },
+        {
+          "name": "King's Indian Variation",
+          "fen": "rnbqkb1r/pppppp1p/5np1/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+          "lichess-href": "/training/Polish_Opening_Kings_Indian_Variation"
+        },
+        {
+          "name": "Outflank Variation",
+          "fen": "rnbqkbnr/pp1ppppp/2p5/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Polish_Opening_Outflank_Variation"
+        },
+        {
+          "name": "Baltic Defense",
+          "fen": "rn1qkbnr/ppp1pppp/8/3p1b2/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+          "lichess-href": "/training/Polish_Opening_Baltic_Defense"
+        },
+        {
+          "name": "Schiffler-Sokolsky Variation",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/1P1p4/8/4P3/PBPP1PPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Polish_Opening_Schiffler-Sokolsky_Variation"
+        },
+        {
+          "name": "Bugayev Advance Variation",
+          "fen": "rnbqkbnr/pppp2pp/5p2/1P2p3/8/8/PBPPPPPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Polish_Opening_Bugayev_Advance_Variation"
+        },
+        {
+          "name": "Symmetrical Variation",
+          "fen": "rnbqkbnr/p1pppppp/8/1p6/1P6/8/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Polish_Opening_Symmetrical_Variation"
+        },
+        {
+          "name": "Birmingham Gambit",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/1P6/8/P1PPPPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Polish_Opening_Birmingham_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Elephant Gambit",
+      "fen": "rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Elephant_Gambit",
+      "variants": [
+        {
+          "name": "Paulsen Countergambit",
+          "fen": "rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Elephant_Gambit_Paulsen_Countergambit"
+        },
+        {
+          "name": "Maróczy Gambit",
+          "fen": "rnbqk1nr/ppp2ppp/3b4/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Elephant_Gambit_Maroczy_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Danish Gambit",
+      "fen": "rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Danish_Gambit",
+      "variants": []
+    },
+    {
+      "name": "Rat Defense",
+      "fen": "",
+      "lichess-href": "/training/Rat_Defense",
+      "variants": [
+        {
+          "name": "Small Center Defense",
+          "fen": "rnbqkbnr/ppp2ppp/3pp3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Rat_Defense_Small_Center_Defense"
+        },
+        {
+          "name": "Harmonist",
+          "fen": "rnbqkbnr/ppp1pppp/3p4/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Rat_Defense_Harmonist"
+        },
+        {
+          "name": "English Rat",
+          "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Rat_Defense_English_Rat"
+        },
+        {
+          "name": "Antal Defense",
+          "fen": "r1bqkbnr/pppnpppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Rat_Defense_Antal_Defense"
+        },
+        {
+          "name": "Balogh Defense",
+          "fen": "rnbqkbnr/ppp1p1pp/3p4/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Rat_Defense_Balogh_Defense"
+        },
+        {
+          "name": "Accelerated Gurgenidze",
+          "fen": "rnbqkbnr/pp2pp1p/2pp2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Rat_Defense_Accelerated_Gurgenidze"
+        }
+      ]
+    },
+    {
+      "name": "King's Gambit",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Kings_Gambit",
+      "variants": []
+    },
+    {
+      "name": "Trompowsky Attack",
+      "fen": "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -",
+      "lichess-href": "/training/Trompowsky_Attack",
+      "variants": [
+        {
+          "name": "Classical Defense",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/6B1/3P4/8/PPP1PPPP/RN1QKBNR w KQkq -",
+          "lichess-href": "/training/Trompowsky_Attack_Classical_Defense"
+        },
+        {
+          "name": "Edge Variation",
+          "fen": "rnbqkb1r/pppppppp/8/8/3Pn2B/8/PPP1PPPP/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Trompowsky_Attack_Edge_Variation"
+        },
+        {
+          "name": "Raptor Variation",
+          "fen": "rnbqkb1r/pppppppp/8/6B1/3Pn2P/8/PPP1PPP1/RN1QKBNR b KQkq -",
+          "lichess-href": "/training/Trompowsky_Attack_Raptor_Variation"
+        },
+        {
+          "name": "Borg Variation",
+          "fen": "rnbqkb1r/pppppp1p/8/6p1/3PnB2/8/PPP1PPPP/RN1QKBNR w KQkq -",
+          "lichess-href": "/training/Trompowsky_Attack_Borg_Variation"
+        }
+      ]
+    },
+    {
+      "name": "English Defense",
+      "fen": "rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/English_Defense",
+      "variants": []
+    },
+    {
+      "name": "King's Knight Opening",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Kings_Knight_Opening",
+      "variants": [
+        {
+          "name": "Normal Variation",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Kings_Knight_Opening_Normal_Variation"
+        },
+        {
+          "name": "Konstantinopolsky",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5NP1/PPPP1P1P/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Kings_Knight_Opening_Konstantinopolsky"
+        }
+      ]
+    },
+    {
+      "name": "Grob Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Grob_Opening",
+      "variants": [
+        {
+          "name": "Grob Gambit",
+          "fen": "rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Grob_Opening_Grob_Gambit"
+        },
+        {
+          "name": "Spike",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/2P3P1/8/PP1PPPBP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Grob_Opening_Spike"
+        },
+        {
+          "name": "Grob Gambit Declined",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/6P1/8/PPPPPPBP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Grob_Opening_Grob_Gambit_Declined"
+        },
+        {
+          "name": "Spike Attack",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Grob_Opening_Spike_Attack"
+        }
+      ]
+    },
+    {
+      "name": "Rapport-Jobava System",
+      "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq -",
+      "lichess-href": "/training/Rapport-Jobava_System",
+      "variants": []
+    },
+    {
+      "name": "Tarrasch Defense",
+      "fen": "rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+      "lichess-href": "/training/Tarrasch_Defense",
+      "variants": [
+        {
+          "name": "Symmetrical Variation",
+          "fen": "r1bqkb1r/pp3ppp/2n1pn2/2pp4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Tarrasch_Defense_Symmetrical_Variation"
+        },
+        {
+          "name": "Two Knights Variation",
+          "fen": "rnbqkbnr/pp3ppp/8/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Tarrasch_Defense_Two_Knights_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - -",
+          "lichess-href": "/training/Tarrasch_Defense_Classical_Variation"
+        },
+        {
+          "name": "Schara Gambit",
+          "fen": "rnbqkbnr/pp3ppp/4p3/3P4/3p4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Tarrasch_Defense_Schara_Gambit"
+        },
+        {
+          "name": "Prague Variation",
+          "fen": "r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R w KQkq -",
+          "lichess-href": "/training/Tarrasch_Defense_Prague_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Old Indian Defense",
+      "fen": "rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Old_Indian_Defense",
+      "variants": [
+        {
+          "name": "Czech Variation",
+          "fen": "rnbqkb1r/pp2pppp/2pp1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Old_Indian_Defense_Czech_Variation"
+        },
+        {
+          "name": "Two Knights Variation",
+          "fen": "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Old_Indian_Defense_Two_Knights_Variation"
+        },
+        {
+          "name": "Ukrainian Variation",
+          "fen": "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Old_Indian_Defense_Ukrainian_Variation"
+        },
+        {
+          "name": "Janowski Variation",
+          "fen": "rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Old_Indian_Defense_Janowski_Variation"
+        },
+        {
+          "name": "Tartakower-Indian",
+          "fen": "rn1qkb1r/ppp1pppp/3p1n2/8/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Old_Indian_Defense_Tartakower-Indian"
+        },
+        {
+          "name": "Normal Variation",
+          "fen": "r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Old_Indian_Defense_Normal_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Van Geet Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq -",
+      "lichess-href": "/training/Van_Geet_Opening",
+      "variants": [
+        {
+          "name": "Reversed Nimzowitsch",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/2N5/PPPPPPPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Van_Geet_Opening_Reversed_Nimzowitsch"
+        },
+        {
+          "name": "Napoleon Attack",
+          "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Van_Geet_Opening_Napoleon_Attack"
+        },
+        {
+          "name": "Dunst-Perrenet Gambit",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/4p3/2NP4/PPP2PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Van_Geet_Opening_Dunst-Perrenet_Gambit"
+        },
+        {
+          "name": "Grünfeld Defense",
+          "fen": "rnbqkbnr/ppp2ppp/8/4p3/4N3/8/PPPP1PPP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Van_Geet_Opening_Grunfeld_Defense"
+        },
+        {
+          "name": "Berlin Gambit",
+          "fen": "r1bqkbnr/ppp1pppp/2n5/3P4/4p3/2N5/PPP2PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Van_Geet_Opening_Berlin_Gambit"
+        },
+        {
+          "name": "Sicilian Two Knights",
+          "fen": "r1bqkbnr/pp1ppppp/2n5/8/3N4/2N5/PPP1PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Van_Geet_Opening_Sicilian_Two_Knights"
+        }
+      ]
+    },
+    {
+      "name": "Danish Gambit Accepted",
+      "fen": "rnbqkbnr/pppp1ppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR b KQkq -",
+      "lichess-href": "/training/Danish_Gambit_Accepted",
+      "variants": [
+        {
+          "name": "Copenhagen Defense",
+          "fen": "rnbqk1nr/pppp1ppp/8/8/1bB1P3/8/PB3PPP/RN1QK1NR w KQkq -",
+          "lichess-href": "/training/Danish_Gambit_Accepted_Copenhagen_Defense"
+        },
+        {
+          "name": "Classical Defense",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/8/2B1P3/8/PB3PPP/RN1QK1NR w KQkq -",
+          "lichess-href": "/training/Danish_Gambit_Accepted_Classical_Defense"
+        },
+        {
+          "name": "Schlechter Defense",
+          "fen": "rnbqkbnr/ppp2ppp/8/3p4/2B1P3/8/PB3PPP/RN1QK1NR w KQkq -",
+          "lichess-href": "/training/Danish_Gambit_Accepted_Schlechter_Defense"
+        },
+        {
+          "name": "Chigorin Defense",
+          "fen": "rnb1kbnr/ppppqppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR w KQkq -",
+          "lichess-href": "/training/Danish_Gambit_Accepted_Chigorin_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Catalan Opening",
+      "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Catalan_Opening",
+      "variants": [
+        {
+          "name": "Closed",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Catalan_Opening_Closed"
+        },
+        {
+          "name": "Open Defense",
+          "fen": "rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR w KQkq -",
+          "lichess-href": "/training/Catalan_Opening_Open_Defense"
+        },
+        {
+          "name": "Closed Variation",
+          "fen": "r1bq1rk1/p2nbppp/2p1pn2/1p1p4/2PP4/5NP1/PPQNPPBP/R1B2RK1 w - -",
+          "lichess-href": "/training/Catalan_Opening_Closed_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Réti Opening",
+      "fen": "rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Reti_Opening",
+      "variants": [
+        {
+          "name": "Réti Accepted",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/2p5/5N2/PP1PPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Reti_Opening_Reti_Accepted"
+        },
+        {
+          "name": "Advance Variation",
+          "fen": "rnbqkbnr/ppp1pppp/8/8/2Pp4/5N2/PP1PPPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Reti_Opening_Advance_Variation"
+        },
+        {
+          "name": "Anglo-Slav Variation",
+          "fen": "rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Reti_Opening_Anglo-Slav_Variation"
+        },
+        {
+          "name": "Reversed Blumenfeld Gambit",
+          "fen": "rnbqkbnr/pp2pppp/8/2p5/1PPp4/4PN2/P2P1PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Reti_Opening_Reversed_Blumenfeld_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Mieses Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Mieses_Opening",
+      "variants": [
+        {
+          "name": "Reversed Rat",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Mieses_Opening_Reversed_Rat"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Indian Defense",
+      "fen": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Queens_Indian_Defense",
+      "variants": [
+        {
+          "name": "Kasparov Variation",
+          "fen": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Kasparov_Variation"
+        },
+        {
+          "name": "Classical Variation",
+          "fen": "rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b kq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Classical_Variation"
+        },
+        {
+          "name": "Fianchetto Variation",
+          "fen": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Fianchetto_Variation"
+        },
+        {
+          "name": "Kasparov-Petrosian Variation",
+          "fen": "rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/P1N2N2/1P2PPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Kasparov-Petrosian_Variation"
+        },
+        {
+          "name": "Spassky System",
+          "fen": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Spassky_System"
+        },
+        {
+          "name": "Fianchetto Traditional",
+          "fen": "rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Fianchetto_Traditional"
+        },
+        {
+          "name": "Petrosian Variation",
+          "fen": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/P4N2/1P2PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Petrosian_Variation"
+        },
+        {
+          "name": "Capablanca Variation",
+          "fen": "rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP2PPBP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/Queens_Indian_Defense_Capablanca_Variation"
+        }
+      ]
+    },
+    {
+      "name": "London System",
+      "fen": "rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq -",
+      "lichess-href": "/training/London_System",
+      "variants": [
+        {
+          "name": "Poisoned Pawn Variation",
+          "fen": "rnb1kb1r/pp2pppp/1q3n2/2pp4/3P1B2/2N1PN2/PPP2PPP/R2QKB1R b KQkq -",
+          "lichess-href": "/training/London_System_Poisoned_Pawn_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Englund Gambit Declined",
+      "fen": "",
+      "lichess-href": "/training/Englund_Gambit_Declined",
+      "variants": [
+        {
+          "name": "Reversed French",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Declined_Reversed_French"
+        },
+        {
+          "name": "Reversed Alekhine",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Declined_Reversed_Alekhine"
+        },
+        {
+          "name": "Reversed Krebs",
+          "fen": "rnbqkbnr/pppp1ppp/8/8/3Pp3/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Declined_Reversed_Krebs"
+        },
+        {
+          "name": "Reversed Mokele Mbembe",
+          "fen": "rnbqkbnr/pppp1ppp/8/4N3/3Pp3/8/PPP1PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Englund_Gambit_Declined_Reversed_Mokele_Mbembe"
+        }
+      ]
+    },
+    {
+      "name": "Torre Attack",
+      "fen": "",
+      "lichess-href": "/training/Torre_Attack",
+      "variants": [
+        {
+          "name": "Classical Defense",
+          "fen": "rnbqkb1r/pppp1ppp/4pn2/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Torre_Attack_Classical_Defense"
+        },
+        {
+          "name": "Fianchetto Defense",
+          "fen": "rnbqkb1r/pppppp1p/5np1/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Torre_Attack_Fianchetto_Defense"
+        },
+        {
+          "name": "Wagner Gambit",
+          "fen": "rnbqkb1r/pp1p1ppp/4pn2/2p3B1/3PP3/5N2/PPP2PPP/RN1QKB1R b KQkq -",
+          "lichess-href": "/training/Torre_Attack_Wagner_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "St. George Defense",
+      "fen": "rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/St_George_Defense",
+      "variants": [
+        {
+          "name": "Polish Variation",
+          "fen": "rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq -",
+          "lichess-href": "/training/St_George_Defense_Polish_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Latvian Gambit",
+      "fen": "rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Latvian_Gambit",
+      "variants": [
+        {
+          "name": "Mlotkowski Variation",
+          "fen": "rnbqkbnr/pppp2pp/8/4pp2/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Mlotkowski_Variation"
+        },
+        {
+          "name": "Fraser Defense",
+          "fen": "r1bqkbnr/pppp2pp/2n5/4Np2/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Fraser_Defense"
+        },
+        {
+          "name": "Mayet Attack",
+          "fen": "rnbqkbnr/pppp2pp/8/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Mayet_Attack"
+        },
+        {
+          "name": "Mason Countergambit",
+          "fen": "rnbqkbnr/pppp2pp/8/4pp2/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Mason_Countergambit"
+        },
+        {
+          "name": "Greco Variation",
+          "fen": "rnb1kbnr/ppppq1pp/8/4Np2/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Greco_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Saragossa Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Saragossa_Opening",
+      "variants": []
+    },
+    {
+      "name": "East Indian Defense",
+      "fen": "rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/East_Indian_Defense",
+      "variants": []
+    },
+    {
+      "name": "Mikenas Defense",
+      "fen": "r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Mikenas_Defense",
+      "variants": [
+        {
+          "name": "Lithuanian Variation",
+          "fen": "r1bqkbnr/ppppnppp/8/3Pp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Mikenas_Defense_Lithuanian_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Duras Gambit",
+      "fen": "rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Duras_Gambit",
+      "variants": []
+    },
+    {
+      "name": "Englund Gambit Complex Declined",
+      "fen": "rnbqkbnr/pppp1ppp/8/3Pp3/8/8/PPP1PPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Englund_Gambit_Complex_Declined",
+      "variants": []
+    },
+    {
+      "name": "Latvian Gambit Accepted",
+      "fen": "rnbqkbnr/pppp2pp/8/4pP2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Latvian_Gambit_Accepted",
+      "variants": [
+        {
+          "name": "Main Line",
+          "fen": "rnb1kbnr/pppp2pp/5q2/4Np2/3PP3/8/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Accepted_Main_Line"
+        },
+        {
+          "name": "Bilguer Variation",
+          "fen": "rnb1kbnr/ppp3pp/3p1q2/5p2/2NPP3/8/PPP2PPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Latvian_Gambit_Accepted_Bilguer_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Czech Defense",
+      "fen": "rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -",
+      "lichess-href": "/training/Czech_Defense",
+      "variants": []
+    },
+    {
+      "name": "Benko Gambit",
+      "fen": "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Benko_Gambit",
+      "variants": [
+        {
+          "name": "Zaitsev System",
+          "fen": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Benko_Gambit_Zaitsev_System"
+        }
+      ]
+    },
+    {
+      "name": "Richter-Veresov Attack",
+      "fen": "rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq -",
+      "lichess-href": "/training/Richter-Veresov_Attack",
+      "variants": []
+    },
+    {
+      "name": "Neo-Grünfeld Defense",
+      "fen": "",
+      "lichess-href": "/training/Neo-Grunfeld_Defense",
+      "variants": [
+        {
+          "name": "Classical Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - -",
+          "lichess-href": "/training/Neo-Grunfeld_Defense_Classical_Variation"
+        },
+        {
+          "name": "Delayed Exchange Variation",
+          "fen": "rnbq1rk1/ppp1ppbp/6p1/3n4/3P4/5NP1/PP2PPBP/RNBQ1RK1 b - -",
+          "lichess-href": "/training/Neo-Grunfeld_Defense_Delayed_Exchange_Variation"
+        },
+        {
+          "name": "Goglidze Attack",
+          "fen": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5P2/PP2P1PP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Neo-Grunfeld_Defense_Goglidze_Attack"
+        }
+      ]
+    },
+    {
+      "name": "Benko Gambit Accepted",
+      "fen": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Benko_Gambit_Accepted",
+      "variants": [
+        {
+          "name": "Fully Accepted Variation",
+          "fen": "rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Benko_Gambit_Accepted_Fully_Accepted_Variation"
+        },
+        {
+          "name": "Modern Variation",
+          "fen": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/4P3/PP3PPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Benko_Gambit_Accepted_Modern_Variation"
+        },
+        {
+          "name": "Pawn Return Variation",
+          "fen": "rnbqkb1r/3ppppp/pP3n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Benko_Gambit_Accepted_Pawn_Return_Variation"
+        },
+        {
+          "name": "Dlugy Variation",
+          "fen": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/5P2/PP2P1PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Benko_Gambit_Accepted_Dlugy_Variation"
+        },
+        {
+          "name": "King Walk Variation",
+          "fen": "rn1q1rk1/4ppbp/3p1np1/2pP4/4P3/2N2NP1/PP3PKP/R1BQ3R b - -",
+          "lichess-href": "/training/Benko_Gambit_Accepted_King_Walk_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Yusupov-Rubinstein System",
+      "fen": "rnbqkb1r/pppp1ppp/4pn2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Yusupov-Rubinstein_System",
+      "variants": []
+    },
+    {
+      "name": "Bogo-Indian Defense",
+      "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Bogo-Indian_Defense",
+      "variants": [
+        {
+          "name": "Exchange Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/2PP4/5N2/PP1bPPPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Bogo-Indian_Defense_Exchange_Variation"
+        },
+        {
+          "name": "Grünfeld Variation",
+          "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq -",
+          "lichess-href": "/training/Bogo-Indian_Defense_Grunfeld_Variation"
+        },
+        {
+          "name": "Nimzowitsch Variation",
+          "fen": "rnb1k2r/ppppqppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Bogo-Indian_Defense_Nimzowitsch_Variation"
+        },
+        {
+          "name": "Wade-Smyslov Variation",
+          "fen": "rnbqk2r/1ppp1ppp/4pn2/p7/1bPP4/5N2/PP1BPPPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Bogo-Indian_Defense_Wade-Smyslov_Variation"
+        },
+        {
+          "name": "Vitolins Variation",
+          "fen": "rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/5N2/PP1BPPPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Bogo-Indian_Defense_Vitolins_Variation"
+        }
+      ]
+    },
+    {
+      "name": "Pterodactyl Defense",
+      "fen": "rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq -",
+      "lichess-href": "/training/Pterodactyl_Defense",
+      "variants": [
+        {
+          "name": "Eastern",
+          "fen": "rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq -",
+          "lichess-href": "/training/Pterodactyl_Defense_Eastern"
+        },
+        {
+          "name": "Western",
+          "fen": "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/4BN2/PPP2PPP/RN1QKB1R w KQkq -",
+          "lichess-href": "/training/Pterodactyl_Defense_Western"
+        },
+        {
+          "name": "Queen Pterodactyl",
+          "fen": "rnbqk1nr/pp1pppbp/6p1/2p5/2PP4/2N1P3/PP3PPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Pterodactyl_Defense_Queen_Pterodactyl"
+        },
+        {
+          "name": "Sicilian",
+          "fen": "rnb1k1nr/pp1pppbp/6p1/q1p5/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq -",
+          "lichess-href": "/training/Pterodactyl_Defense_Sicilian"
+        }
+      ]
+    },
+    {
+      "name": "Danish Gambit Declined",
+      "fen": "",
+      "lichess-href": "/training/Danish_Gambit_Declined",
+      "variants": [
+        {
+          "name": "Sorensen Defense",
+          "fen": "rnbqkbnr/ppp2ppp/8/3p4/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Danish_Gambit_Declined_Sorensen_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Anderssen's Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Anderssens_Opening",
+      "variants": []
+    },
+    {
+      "name": "Blumenfeld Countergambit",
+      "fen": "rnbqkb1r/p2p1ppp/4pn2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Blumenfeld_Countergambit",
+      "variants": []
+    },
+    {
+      "name": "King's Pawn Opening",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Kings_Pawn_Opening",
+      "variants": []
+    },
+    {
+      "name": "Queen's Gambit",
+      "fen": "rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Queens_Gambit",
+      "variants": []
+    },
+    {
+      "name": "Slav Indian",
+      "fen": "rnbqkb1r/pp1ppppp/2p2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Slav_Indian",
+      "variants": []
+    },
+    {
+      "name": "Kádas Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Kadas_Opening",
+      "variants": []
+    },
+    {
+      "name": "Lion Defense",
+      "fen": "",
+      "lichess-href": "/training/Lion_Defense",
+      "variants": [
+        {
+          "name": "Anti-Philidor",
+          "fen": "r1bqkb1r/pppnpppp/3p1n2/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Lion_Defense_Anti-Philidor"
+        },
+        {
+          "name": "Lion's Jaw",
+          "fen": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq -",
+          "lichess-href": "/training/Lion_Defense_Lions_Jaw"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Indian Accelerated",
+      "fen": "rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Queens_Indian_Accelerated",
+      "variants": []
+    },
+    {
+      "name": "Borg Defense",
+      "fen": "rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Borg_Defense",
+      "variants": [
+        {
+          "name": "Borg Gambit",
+          "fen": "rnbqkbnr/pppppp1p/8/6p1/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Borg_Defense_Borg_Gambit"
+        }
+      ]
+    },
+    {
+      "name": "Polish Defense",
+      "fen": "rnbqkbnr/p1pppppp/8/1p6/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Polish_Defense",
+      "variants": []
+    },
+    {
+      "name": "Canard Opening",
+      "fen": "rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Canard_Opening",
+      "variants": []
+    },
+    {
+      "name": "Mexican Defense",
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Mexican_Defense",
+      "variants": []
+    },
+    {
+      "name": "Ware Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Ware_Opening",
+      "variants": []
+    },
+    {
+      "name": "Blackmar-Diemer Gambit Declined",
+      "fen": "",
+      "lichess-href": "/training/Blackmar-Diemer_Gambit_Declined",
+      "variants": [
+        {
+          "name": "Lamb Defense",
+          "fen": "r1bqkb1r/ppp1pppp/2n2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Declined_Lamb_Defense"
+        },
+        {
+          "name": "O'Kelly Defense",
+          "fen": "rnbqkb1r/pp2pppp/2p2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq -",
+          "lichess-href": "/training/Blackmar-Diemer_Gambit_Declined_OKelly_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Ware Defense",
+      "fen": "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Ware_Defense",
+      "variants": []
+    },
+    {
+      "name": "Rubinstein Opening",
+      "fen": "rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P1BPN2/P1P2PPP/RNBQK2R b KQkq -",
+      "lichess-href": "/training/Rubinstein_Opening",
+      "variants": []
+    },
+    {
+      "name": "Kangaroo Defense",
+      "fen": "rnbqk1nr/pppp1ppp/4p3/8/1bPP4/8/PP2PPPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Kangaroo_Defense",
+      "variants": [
+        {
+          "name": "Keres Defense",
+          "fen": "rnbqk1nr/pppp1ppp/4p3/8/1bPP4/2N5/PP2PPPP/R1BQKBNR b KQkq -",
+          "lichess-href": "/training/Kangaroo_Defense_Keres_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Clemenz Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Clemenz_Opening",
+      "variants": []
+    },
+    {
+      "name": "Paleface Attack",
+      "fen": "rnbqkb1r/pppppppp/5n2/8/3P4/5P2/PPP1P1PP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Paleface_Attack",
+      "variants": []
+    },
+    {
+      "name": "Carr Defense",
+      "fen": "rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Carr_Defense",
+      "variants": []
+    },
+    {
+      "name": "Portuguese Opening",
+      "fen": "rnbqkbnr/pppp1ppp/8/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR b KQkq -",
+      "lichess-href": "/training/Portuguese_Opening",
+      "variants": []
+    },
+    {
+      "name": "Goldsmith Defense",
+      "fen": "rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Goldsmith_Defense",
+      "variants": []
+    },
+    {
+      "name": "Pseudo Queen's Indian Defense",
+      "fen": "rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Pseudo_Queens_Indian_Defense",
+      "variants": []
+    },
+    {
+      "name": "Barnes Defense",
+      "fen": "rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Barnes_Defense",
+      "variants": []
+    },
+    {
+      "name": "Wade Defense",
+      "fen": "rn1qkbnr/ppp1pppp/3p4/8/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Wade_Defense",
+      "variants": []
+    },
+    {
+      "name": "Gunderam Defense",
+      "fen": "rnb1kbnr/ppppqppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Gunderam_Defense",
+      "variants": []
+    },
+    {
+      "name": "Benko Gambit Declined",
+      "fen": "",
+      "lichess-href": "/training/Benko_Gambit_Declined",
+      "variants": [
+        {
+          "name": "Main Line",
+          "fen": "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq -",
+          "lichess-href": "/training/Benko_Gambit_Declined_Main_Line"
+        }
+      ]
+    },
+    {
+      "name": "Amar Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq -",
+      "lichess-href": "/training/Amar_Opening",
+      "variants": []
+    },
+    {
+      "name": "King's Pawn",
+      "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Kings_Pawn",
+      "variants": []
+    },
+    {
+      "name": "Amazon Attack",
+      "fen": "rnbqkbnr/ppp1pppp/8/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR b KQkq -",
+      "lichess-href": "/training/Amazon_Attack",
+      "variants": [
+        {
+          "name": "Siberian Attack",
+          "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2NQ4/PPP1PPPP/R1B1KBNR b KQkq -",
+          "lichess-href": "/training/Amazon_Attack_Siberian_Attack"
+        }
+      ]
+    },
+    {
+      "name": "Barnes Opening",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq -",
+      "lichess-href": "/training/Barnes_Opening",
+      "variants": [
+        {
+          "name": "Walkerling",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5P2/PPPP2PP/RNBQK1NR b KQkq -",
+          "lichess-href": "/training/Barnes_Opening_Walkerling"
+        },
+        {
+          "name": "Hammerschlag",
+          "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq -",
+          "lichess-href": "/training/Barnes_Opening_Hammerschlag"
+        }
+      ]
+    },
+    {
+      "name": "Robatsch Defense",
+      "fen": "rn1qk1nr/ppp1ppbp/3p2p1/8/2PPP1b1/5N2/PP3PPP/RNBQKB1R w KQkq -",
+      "lichess-href": "/training/Robatsch_Defense",
+      "variants": []
+    },
+    {
+      "name": "Lasker Simul Special",
+      "fen": "rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Lasker_Simul_Special",
+      "variants": []
+    },
+    {
+      "name": "Center Game Accepted",
+      "fen": "rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Center_Game_Accepted",
+      "variants": []
+    },
+    {
+      "name": "Semi-Slav Defense Accepted",
+      "fen": "rnbqkb1r/pp3ppp/2p1pn2/6B1/2pP4/2N2N2/PP2PPPP/R2QKB1R w KQkq -",
+      "lichess-href": "/training/Semi-Slav_Defense_Accepted",
+      "variants": []
+    },
+    {
+      "name": "Hippopotamus Defense",
+      "fen": "rnbqkb1r/pppppppp/7n/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Hippopotamus_Defense",
+      "variants": []
+    },
+    {
+      "name": "Creepy Crawly Formation",
+      "fen": "",
+      "lichess-href": "/training/Creepy_Crawly_Formation",
+      "variants": [
+        {
+          "name": "Classical Defense",
+          "fen": "rnbqkbnr/ppp2ppp/8/3pp3/8/P6P/1PPPPPP1/RNBQKBNR w KQkq -",
+          "lichess-href": "/training/Creepy_Crawly_Formation_Classical_Defense"
+        }
+      ]
+    },
+    {
+      "name": "Sodium Attack",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/N7/PPPPPPPP/R1BQKBNR b KQkq -",
+      "lichess-href": "/training/Sodium_Attack",
+      "variants": []
+    },
+    {
+      "name": "Lemming Defense",
+      "fen": "r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "lichess-href": "/training/Lemming_Defense",
+      "variants": []
+    },
+    {
+      "name": "Valencia Opening",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR b KQkq -",
+      "lichess-href": "/training/Valencia_Opening",
+      "variants": []
+    }
+  ]
+}
