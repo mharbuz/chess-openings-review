@@ -27,7 +27,7 @@ export const useOpeningsStore = defineStore({
             this.families = data.families;
           });
       } catch (error) {
-        this.error = error;
+        this.error = "check errors";
       } finally {
         this.loading = false;
       }
